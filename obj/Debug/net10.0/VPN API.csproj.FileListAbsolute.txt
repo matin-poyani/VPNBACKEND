@@ -1,0 +1,33 @@
+F:\sourse\C#\VPN Web Api\VPN API\bin\Debug\net10.0\appsettings.Development.json
+F:\sourse\C#\VPN Web Api\VPN API\bin\Debug\net10.0\appsettings.json
+F:\sourse\C#\VPN Web Api\VPN API\bin\Debug\net10.0\VPN API.staticwebassets.endpoints.json
+F:\sourse\C#\VPN Web Api\VPN API\bin\Debug\net10.0\VPN API.exe
+F:\sourse\C#\VPN Web Api\VPN API\bin\Debug\net10.0\VPN API.deps.json
+F:\sourse\C#\VPN Web Api\VPN API\bin\Debug\net10.0\VPN API.runtimeconfig.json
+F:\sourse\C#\VPN Web Api\VPN API\bin\Debug\net10.0\VPN API.dll
+F:\sourse\C#\VPN Web Api\VPN API\bin\Debug\net10.0\VPN API.pdb
+F:\sourse\C#\VPN Web Api\VPN API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+F:\sourse\C#\VPN Web Api\VPN API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.csproj.AssemblyReference.cache
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.GeneratedMSBuildEditorConfig.editorconfig
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.AssemblyInfoInputs.cache
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.AssemblyInfo.cs
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.csproj.CoreCompileInputs.cache
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.MvcApplicationPartsAssemblyInfo.cs
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.MvcApplicationPartsAssemblyInfo.cache
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\scopedcss\bundle\VPN API.styles.css
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\staticwebassets.build.json
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\staticwebassets.development.json
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\swae.build.ex.cache
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.csproj.Up2Date
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.dll
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\refint\VPN API.dll
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.pdb
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\VPN API.genruntimeconfig.cache
+F:\sourse\C#\VPN Web Api\VPN API\obj\Debug\net10.0\ref\VPN API.dll
