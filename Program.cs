@@ -13,6 +13,8 @@ namespace VpnBackend
     {
         static async Task Main(string[] args)
         {
+            // این خط را برای پشتیبانی از زبان فارسی اضافه کنید
+    Console.OutputEncoding = System.Text.Encoding.UTF8;
             string inputFilePath = "urls.txt";
             string outputFilePath = "my-sub.txt";
 
