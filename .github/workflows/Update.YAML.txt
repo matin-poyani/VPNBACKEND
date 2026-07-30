@@ -1,0 +1,32 @@
+name: Auto Update Subscription
+
+on:
+  schedule:
+    # اجرا هر ۶ ساعت یک‌بار (دقیقه صفر، هر ۶ ساعت، هر روز)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # امکان اجرای دستی با یک کلیک (برای تست)
+
+jobs:
+  update-subscription:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # اجازه ذخیره فایل جدید در گیت‌هاب
+
+    steps:
+      - name: 1. Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 2. Setup .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.x'
+
+      - name: 3. Run C# Parser
+        run: dotnet run
+
+      - name: 4. Commit and Push Result
+        run: |
+          git config --global user.name "matin-poyani"
+          git config --global user.email "matin.poyani@yahoo.com"
+          git add my-sub.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M')" && git push)
