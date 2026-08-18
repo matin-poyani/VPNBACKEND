@@ -1,3 +1,16 @@
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
+https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/config.txt
+https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt
+https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub2.txt
+https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub3.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt
 https://info.onetwothree123.ir/
 https://manager.onetwothree123.ir/
 https://office.onetwothree123.ir/
