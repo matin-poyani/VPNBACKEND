@@ -1,151 +1,312 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Net.Http;
 using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
+using System.Text.Encodings.Web;
+using System.Text.Json;
+using System.Text.Json.Nodes;
+using Telegram.Bot;
 using VpnBackend.Models;
 using VpnBackend.Services;
 
-namespace VpnBackend
+var channelHandle = TelegramConfig.ChannelHandle;
+var arguments = args ?? Array.Empty<string>();
+
+ConfigureProxyEnvironment();
+
+if (arguments.Contains("--test-telegram", StringComparer.OrdinalIgnoreCase) ||
+    arguments.Contains("--telegram-check", StringComparer.OrdinalIgnoreCase))
 {
-    class Program
+    await RunTelegramSmokeTestAsync();
+    return 0;
+}
+
+Console.WriteLine("╔════════════════════════════════════════╗");
+Console.WriteLine("║   VPN Subscription Updater Started     ║");
+Console.WriteLine("╚════════════════════════════════════════╝\n");
+
+await RunCycleAsync(channelHandle);
+return 0;
+
+static async Task RunCycleAsync(string channelHandle)
+{
+    var httpClient = CreateHttpClient(TimeSpan.FromSeconds(30));
+    var parser = new SubscriptionParser(httpClient);
+    var geoService = new GeoIPService();
+    var notifier = new TelegramNotifier();
+    var healthChecker = new HealthChecker();
+    var allNodes = new List<VpnNode>();
+    var healthyNodes = new List<VpnNode>();
+
+    if (!File.Exists("urls.txt"))
     {
-        static async Task Main(string[] args)
+        Console.WriteLine("✗ فایل urls.txt پیدا نشد.");
+        return;
+    }
+
+    var sourceUrls = (await File.ReadAllLinesAsync("urls.txt"))
+        .Where(line => !string.IsNullOrWhiteSpace(line) && !line.StartsWith("#"))
+        .ToList();
+
+    Console.WriteLine($"📡 خواندن {sourceUrls.Count} لینک منبع...\n");
+
+    var sourceCount = 0;
+    foreach (var url in sourceUrls)
+    {
+        try
         {
-            Console.OutputEncoding = Encoding.UTF8;
-
-            string inputFilePath = "urls.txt";
-            string outputFilePath = "my-sub.txt";
-            string readableOutputFilePath = "valid-servers.txt";
-
-            Console.WriteLine("========================================");
-            Console.WriteLine("VPN Subscription Updater");
-            Console.WriteLine("========================================");
-
-            if (!File.Exists(inputFilePath))
+            Console.Write($"  {url[..Math.Min(50, url.Length)]}... ");
+            var urlNodes = await parser.ParseSubscriptionAsync(url);
+            if (urlNodes.Count == 0)
             {
-                Console.WriteLine("[Error] فایل urls.txt پیدا نشد! لطفاً فایل را بسازید.");
-                return;
+                Console.WriteLine("✗");
+                continue;
             }
 
-            string[] urls = await File.ReadAllLinesAsync(inputFilePath);
-            Console.WriteLine($"[Info] تعداد {urls.Length} خط از فایل ورودی خوانده شد.");
+            allNodes.AddRange(urlNodes);
+            sourceCount++;
+            Console.WriteLine($"✓ ({urlNodes.Count})");
+        }
+        catch
+        {
+            Console.WriteLine("✗");
+        }
 
-            var cleanUrls = urls
-                .Select(x => x.Trim())
-                .Where(x => !string.IsNullOrWhiteSpace(x) && !x.StartsWith("#"))
-                .Distinct()
-                .ToList();
+        await Task.Delay(500);
+    }
 
-            Console.WriteLine($"[Info] تعداد {cleanUrls.Count} لینک معتبر بعد از فیلتر شدن.");
+    allNodes = allNodes
+        .GroupBy(node => node.GetDeduplicationKey(), StringComparer.Ordinal)
+        .Select(group => group.First())
+        .ToList();
 
-            using var httpClient = new HttpClient
-            {
-                Timeout = TimeSpan.FromSeconds(20)
-            };
+    Console.WriteLine($"\n✓ کل کانفیگ‌ها: {allNodes.Count}\n");
 
-            var parser = new SubscriptionParser(httpClient);
-            var healthChecker = new HealthChecker();
-            var allNodes = new List<VpnNode>();
+    if (allNodes.Count == 0)
+    {
+        Console.WriteLine("✗ کانفیگی استخراج نشد.");
+        return;
+    }
 
-            foreach (var url in cleanUrls)
-            {
-                Console.WriteLine($"[Fetching] در حال دانلود: {url}");
-                var nodes = await parser.ParseSubscriptionAsync(url);
-                allNodes.AddRange(nodes);
-            }
+    Console.WriteLine($"🔍 تست {allNodes.Count} کانفیگ...\n");
 
-            Console.WriteLine($"[Info] مجموع کانفیگ‌های استخراج‌شده: {allNodes.Count}");
+    var testTasks = allNodes.Select(async node =>
+    {
+        var (isAlive, ping) = await healthChecker.CheckNodeAsync(node.Address, node.Port, node.OriginalLink, node.Protocol);
+        if (!isAlive)
+            return;
 
-            if (allNodes.Count == 0)
-            {
-                await File.WriteAllTextAsync(outputFilePath, string.Empty);
-                await File.WriteAllTextAsync(readableOutputFilePath, string.Empty);
-                Console.WriteLine("[Info] هیچ کانفیگی پیدا نشد؛ فایل خروجی خالی شد.");
-                return;
-            }
+        node.IsAlive = true;
+        node.PingMs = ping;
+        lock (healthyNodes)
+        {
+            healthyNodes.Add(node);
+        }
+    }).ToList();
 
-            var healthyNodes = new List<VpnNode>();
-            var semaphore = new SemaphoreSlim(10);
+    await Task.WhenAll(testTasks);
 
-            var tasks = allNodes
-                .DistinctBy(node => node.OriginalLink)
-                .Select(async node =>
-                {
-                    await semaphore.WaitAsync();
-                    try
-                    {
-                        Console.WriteLine($"[Checking] بررسی سرور: {node.Address}:{node.Port} ({node.Protocol})");
+    Console.WriteLine($"\n🌍 گرفتن لوکیشن سرورها...\n");
 
-                        var (isAlive, ping) = await healthChecker.CheckNodeAsync(
-                            node.Address,
-                            node.Port,
-                            node.OriginalLink,
-                            node.Protocol);
+    foreach (var node in healthyNodes)
+    {
+        await geoService.EnrichAsync(node);
+        node.TelegramChannelHandle = channelHandle;
+        node.PingType = "Xray RTT";
+        node.DisplayName = node.BuildTelegramLabel(channelHandle);
+        node.Name = node.DisplayName;
+        node.OriginalLink = ApplyConfigDisplayName(node.OriginalLink, node.DisplayName);
+        await Task.Delay(100);
+    }
 
-                        if (isAlive)
-                        {
-                            node.IsAlive = true;
-                            node.PingMs = ping;
-                            lock (healthyNodes)
-                            {
-                                healthyNodes.Add(node);
-                            }
+    if (healthyNodes.Count == 0)
+        Console.WriteLine("✗ هیچ کانفیگی سالم نبود؛ خروجی خالی و حذف پست‌های قبلی اعمال می‌شود.");
 
-                            Console.WriteLine($"[OK] سرور سالم است | ping: {ping}ms");
-                        }
-                        else
-                        {
-                            Console.WriteLine($"[FAIL] سرور غیرفعال یا نامعتبر است.");
-                        }
-                    }
-                    finally
-                    {
-                        semaphore.Release();
-                    }
-                });
+    var ordered = healthyNodes
+        .OrderBy(n => n.PingMs)
+        .ToList();
 
-            await Task.WhenAll(tasks);
+    var finalSubscription = string.Join("\n", ordered.Select(n => n.OriginalLink));
+    await File.WriteAllTextAsync("my-sub.txt", Convert.ToBase64String(Encoding.UTF8.GetBytes(finalSubscription)));
 
-            var finalNodes = healthyNodes
-                .Where(x => !string.IsNullOrWhiteSpace(x.OriginalLink))
-                .GroupBy(x => x.OriginalLink)
-                .Select(g => g.First())
-                .OrderBy(x => x.PingMs == -1 ? int.MaxValue : x.PingMs)
-                .ToList();
+    var text = new StringBuilder();
+    text.AppendLine($"تعداد: {ordered.Count}");
+    text.AppendLine($"آپدیت: {DateTime.UtcNow:yyyy-MM-dd HH:mm} UTC");
+    text.AppendLine(new string('=', 80));
+    text.AppendLine();
 
-            Console.WriteLine($"[Success] مجموعاً {finalNodes.Count} کانفیگ سالم و بدون تکرار باقی ماند.");
+    for (var i = 0; i < ordered.Count; i++)
+    {
+        var node = ordered[i];
+        text.AppendLine($"{i + 1}. {node.DisplayName}");
+        text.AppendLine($"   {node.OriginalLink}\n");
+    }
 
-            var readableLinks = finalNodes
-                .Select(x => x.OriginalLink)
-                .Distinct()
-                .ToList();
+    await File.WriteAllTextAsync("valid-servers.txt", text.ToString());
+    Console.WriteLine("✓ نوشته شد: my-sub.txt, valid-servers.txt\n");
 
-            var readableText = string.Join(Environment.NewLine, readableLinks);
-            var base64Subscription = Convert.ToBase64String(Encoding.UTF8.GetBytes(readableText));
+    Console.WriteLine("════════════════════════════════════════");
+    Console.WriteLine($"منابع: {sourceCount} | کل: {allNodes.Count} | سالم: {healthyNodes.Count}");
+    Console.WriteLine($"[Telegram] وضعیت کانال: {(TelegramConfig.UsesUsernameChatId ? "username" : (TelegramConfig.UsesNumericChatId ? "numeric" : "not-set"))}");
+    Console.WriteLine("════════════════════════════════════════\n");
 
-            var existingContent = File.Exists(outputFilePath)
-                ? await File.ReadAllTextAsync(outputFilePath)
-                : string.Empty;
-
-            if (!string.Equals(existingContent, base64Subscription, StringComparison.Ordinal))
-            {
-                await File.WriteAllTextAsync(outputFilePath, base64Subscription);
-                Console.WriteLine($"[Saved] فایل Base64 در {outputFilePath} ذخیره شد.");
-            }
-            else
-            {
-                Console.WriteLine($"[Info] محتوای {outputFilePath} تغییری نکرده است؛ فایل دوباره نوشته نشد.");
-            }
-
-            await File.WriteAllTextAsync(readableOutputFilePath, readableText);
-            Console.WriteLine($"[Saved] خروجی خوانا در {readableOutputFilePath} ذخیره شد.");
-            Console.WriteLine("========================================");
-            Console.WriteLine($"Summary: {cleanUrls.Count} source links -> {allNodes.Count} nodes -> {finalNodes.Count} healthy links");
-            Console.WriteLine("========================================");
+    if (notifier.IsConfigured)
+    {
+        if (await notifier.VerifyAsync())
+        {
+            Console.WriteLine("[Telegram] ارسال واقعی به کانال شروع شد...");
+            var published = await notifier.PublishAsync(ordered, sourceCount, allNodes.Count);
+            Console.WriteLine("\n════════════════════════════════════════");
+            Console.WriteLine(published ? "✓ انتشار موفق" : "✗ انتشار کامل نشد");
+        }
+        else
+        {
+            Console.WriteLine("\n════════════════════════════════════════");
+            Console.WriteLine("✗ انتشار انجام نشد؛ اتصال، توکن، Chat ID و دسترسی ادمین ربات را بررسی کنید.");
         }
     }
+    else
+    {
+        Console.WriteLine("\n════════════════════════════════════════");
+        Console.WriteLine("✓ اتمام (بدون ارسال تلگرام — Token/ChatId تنظیم نشده است)");
+    }
 }
+
+static string ApplyConfigDisplayName(string originalLink, string displayName)
+{
+    if (string.IsNullOrWhiteSpace(displayName))
+        return originalLink;
+
+    if (originalLink.StartsWith("vmess://", StringComparison.OrdinalIgnoreCase))
+    {
+        try
+        {
+            var encoded = originalLink["vmess://".Length..];
+            var decoded = Encoding.UTF8.GetString(Convert.FromBase64String(NormalizeBase64(encoded)));
+            var node = JsonNode.Parse(decoded) as JsonObject;
+            if (node is null)
+                return originalLink;
+
+            node["ps"] = displayName;
+            var json = node.ToJsonString(new JsonSerializerOptions
+            {
+                Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+            });
+
+            return "vmess://" + Convert.ToBase64String(Encoding.UTF8.GetBytes(json));
+        }
+        catch
+        {
+            return originalLink;
+        }
+    }
+
+    if (originalLink.StartsWith("vless://", StringComparison.OrdinalIgnoreCase) ||
+        originalLink.StartsWith("trojan://", StringComparison.OrdinalIgnoreCase))
+    {
+        try
+        {
+            var uri = new Uri(originalLink);
+            var basePart = originalLink[..originalLink.IndexOf('#', StringComparison.Ordinal)];
+            return $"{basePart}#{Uri.EscapeDataString(displayName)}";
+        }
+        catch
+        {
+            return originalLink;
+        }
+    }
+
+    return originalLink;
+}
+
+static string NormalizeBase64(string base64)
+{
+    var normalized = base64.Trim().Replace('-', '+').Replace('_', '/');
+    while (normalized.Length % 4 != 0)
+        normalized += "=";
+
+    return normalized;
+}
+
+static async Task RunTelegramSmokeTestAsync()
+{
+    ConfigureProxyEnvironment();
+    var token = TelegramConfig.Token;
+    var rawChatId = TelegramConfig.ChatId;
+    var normalizedChatId = TelegramConfig.NormalizeChatTarget(rawChatId);
+
+    Console.WriteLine("════════════════════════════════════════");
+    Console.WriteLine("[Telegram] Smoke Test Started");
+    Console.WriteLine($"[Telegram] Token configured: {!string.IsNullOrWhiteSpace(token)}");
+    Console.WriteLine($"[Telegram] Chat configured: {!string.IsNullOrWhiteSpace(rawChatId)}");
+    Console.WriteLine($"[Telegram] Chat target configured: {!string.IsNullOrWhiteSpace(normalizedChatId)}");
+    Console.WriteLine($"[Telegram] Target classification: {(TelegramConfig.UsesNumericChatId ? "numeric" : (TelegramConfig.UsesUsernameChatId ? "username" : "unknown"))}");
+    Console.WriteLine("════════════════════════════════════════");
+
+    if (string.IsNullOrWhiteSpace(token) || string.IsNullOrWhiteSpace(rawChatId))
+    {
+        Console.WriteLine("[Telegram] Missing token or chat id. Set them in appsettings.json or environment variables.");
+        Environment.ExitCode = 1;
+        return;
+    }
+
+    try
+    {
+        var client = new TelegramBotClient(token, CreateHttpClient(TimeSpan.FromSeconds(60)));
+        var me = await client.GetMe();
+        Console.WriteLine($"[Telegram] Bot verified: @{me.Username}");
+
+        var resolvedChat = await client.GetChat(normalizedChatId);
+        Console.WriteLine($"[Telegram] Resolved chat: {resolvedChat.Title ?? resolvedChat.Username ?? "configured target"}");
+
+        var message = await client.SendMessage(
+            chatId: resolvedChat.Id.ToString(),
+            text: "VPNBACKEND Telegram smoke test ✅"
+        );
+
+        Console.WriteLine($"[Telegram] Test message delivered. MessageId={message.MessageId}");
+        Console.WriteLine("════════════════════════════════════════");
+        Console.WriteLine("[Telegram] Smoke test passed");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"[Telegram] Smoke test failed: {ex.Message}");
+        Console.WriteLine($"[Telegram] Expected numeric chat ID or a resolvable @username/channel link. {TelegramConfig.ExplainChatIdRequirement()}");
+        Environment.ExitCode = 1;
+    }
+}
+
+static void ConfigureProxyEnvironment()
+{
+    var proxyUrl = Environment.GetEnvironmentVariable("HTTPS_PROXY")
+        ?? Environment.GetEnvironmentVariable("https_proxy")
+        ?? Environment.GetEnvironmentVariable("HTTP_PROXY")
+        ?? Environment.GetEnvironmentVariable("http_proxy");
+
+    if (!string.IsNullOrWhiteSpace(proxyUrl))
+    {
+        Console.WriteLine("[Proxy] Proxy environment variable detected.");
+    }
+    else
+    {
+        Console.WriteLine("[Proxy] No proxy environment variable detected.");
+    }
+}
+
+static HttpClient CreateHttpClient(TimeSpan timeout)
+{
+    var proxyUrl = Environment.GetEnvironmentVariable("HTTPS_PROXY")
+        ?? Environment.GetEnvironmentVariable("https_proxy")
+        ?? Environment.GetEnvironmentVariable("HTTP_PROXY")
+        ?? Environment.GetEnvironmentVariable("http_proxy");
+
+    var handler = new HttpClientHandler();
+    if (!string.IsNullOrWhiteSpace(proxyUrl))
+    {
+        handler.UseProxy = true;
+        handler.Proxy = new System.Net.WebProxy(proxyUrl)
+        {
+            BypassProxyOnLocal = false
+        };
+    }
+
+    return new HttpClient(handler) { Timeout = timeout };
+}
+

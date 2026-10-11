@@ -1,56 +1,65 @@
-name: Auto Update Subscription
+name: Update Subscription
 
 on:
   schedule:
-   - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 concurrency:
-  group: vpn-subscription-update
-  cancel-in-progress: true
+  group: vpn-update
+  cancel-in-progress: false
 
 jobs:
-  update-subscription:
-    timeout-minutes: 20
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 45
 
     steps:
-      - name: 1. Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: 2. Setup .NET 10
-        uses: actions/setup-dotnet@v4
+      - uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '10.x'
+          dotnet-version: '10.0.x'
 
-      - name: 3. Install Xray
+      - name: Cache NuGet
+        uses: actions/cache@v4
+        with:
+          path: ~/.nuget/packages
+          key: nuget-${{ hashFiles('**/*.csproj') }}
+          restore-keys: nuget-
+
+      - name: Install Xray
         run: |
-          mkdir -p /tmp/xray
-          curl -L https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip -o /tmp/xray/Xray-linux-64.zip
-          unzip -o /tmp/xray/Xray-linux-64.zip -d /tmp/xray
-          sudo install -m 755 /tmp/xray/xray /usr/local/bin/xray
+          set -euo pipefail
+          mkdir -p "$HOME/.local/bin"
+          curl -fsSL -o /tmp/xray.zip \
+            https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          unzip -o -q /tmp/xray.zip -d /tmp/xray
+          install -m 755 /tmp/xray/xray "$HOME/.local/bin/xray"
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
           xray version
 
-      - name: 4. Run subscription updater
+      - name: Run updater
         env:
-          XRAY_BINARY_PATH: /usr/local/bin/xray
-        run: dotnet run
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: dotnet run --configuration Release
 
-      - name: 5. Show summary output
+      - name: Commit if changed
         run: |
-          echo "=== valid-servers.txt preview ==="
-          head -n 20 valid-servers.txt || true
-
-      - name: 6. Commit and push only if output changed
-        run: |
-          git config --global user.name "matin-poyani"
-          git config --global user.email "matin.poyani@yahoo.com"
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add my-sub.txt valid-servers.txt
+          if [ -f .telegram-message-ids.json ]; then
+            git add .telegram-message-ids.json
+          fi
           if git diff --cached --quiet; then
-            echo "No changes detected; skipping commit."
+            echo "بدون تغییر"
           else
-            git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "chore: update subscription [skip ci]"
             git push
           fi
