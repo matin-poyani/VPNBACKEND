@@ -87,21 +87,36 @@ static async Task RunCycleAsync(string channelHandle)
 
     Console.WriteLine($"🔍 تست {allNodes.Count} کانفیگ...\n");
 
+    using var healthCheckSlots = new SemaphoreSlim(24);
     var testTasks = allNodes.Select(async node =>
     {
-        var (isAlive, ping) = await healthChecker.CheckNodeAsync(node.Address, node.Port, node.OriginalLink, node.Protocol);
-        if (!isAlive)
-            return;
-
-        node.IsAlive = true;
-        node.PingMs = ping;
-        lock (healthyNodes)
+        await healthCheckSlots.WaitAsync();
+        try
         {
-            healthyNodes.Add(node);
+            var (isAlive, ping) = await healthChecker.CheckNodeAsync(node.Address, node.Port, node.OriginalLink, node.Protocol);
+            if (!isAlive)
+                return;
+
+            node.IsAlive = true;
+            node.PingMs = ping;
+            lock (healthyNodes)
+            {
+                healthyNodes.Add(node);
+            }
+        }
+        finally
+        {
+            healthCheckSlots.Release();
         }
     }).ToList();
 
     await Task.WhenAll(testTasks);
+
+    if (healthyNodes.Count == 0)
+    {
+        Console.WriteLine("✗ هیچ کانفیگی از آزمون کامل TCP + Xray عبور نکرد؛ خروجی‌ها و پست‌های قبلی حفظ شدند تا قطعی شبکه باعث حذف اشتباهی نشود.");
+        return;
+    }
 
     Console.WriteLine($"\n🌍 گرفتن لوکیشن سرورها...\n");
 
@@ -115,9 +130,6 @@ static async Task RunCycleAsync(string channelHandle)
         node.OriginalLink = ApplyConfigDisplayName(node.OriginalLink, node.DisplayName);
         await Task.Delay(100);
     }
-
-    if (healthyNodes.Count == 0)
-        Console.WriteLine("✗ هیچ کانفیگی سالم نبود؛ خروجی خالی و حذف پست‌های قبلی اعمال می‌شود.");
 
     var ordered = healthyNodes
         .OrderBy(n => n.PingMs)

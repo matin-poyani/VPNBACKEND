@@ -69,18 +69,12 @@ namespace VpnBackend.Services
         {
             using var tcpClient = new TcpClient();
             var stopwatch = new Stopwatch();
+            using var timeout = new CancellationTokenSource(TimeoutMs);
 
             try
             {
                 stopwatch.Start();
-                var connectTask = tcpClient.ConnectAsync(address, port);
-                var timeoutTask = Task.Delay(TimeoutMs);
-
-                if (await Task.WhenAny(connectTask, timeoutTask) == timeoutTask)
-                {
-                    stopwatch.Stop();
-                    return (false, -1);
-                }
+                await tcpClient.ConnectAsync(address, port, timeout.Token);
 
                 if (tcpClient.Connected)
                 {
@@ -88,6 +82,10 @@ namespace VpnBackend.Services
                     return (true, stopwatch.ElapsedMilliseconds);
                 }
 
+                return (false, -1);
+            }
+            catch (OperationCanceledException)
+            {
                 return (false, -1);
             }
             catch (Exception ex)
