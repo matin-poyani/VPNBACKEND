@@ -26,15 +26,12 @@ namespace VpnBackend.Models
         public string BuildTelegramLabel(string? channelHandle = null)
         {
             var handle = string.IsNullOrWhiteSpace(channelHandle) ? TelegramChannelHandle : channelHandle.Trim();
-            var channelUrl = handle.StartsWith("https://t.me/", StringComparison.OrdinalIgnoreCase)
-                ? handle.TrimEnd('/')
-                : $"https://t.me/{handle.TrimStart('@', '/')}";
             var flag = string.IsNullOrWhiteSpace(CountryFlag) ? "🌍" : CountryFlag;
 
             var ping = PingMs > 0
                 ? $" {PingType} {PingMs}ms".TrimEnd()
                 : "";
-            return $"{channelUrl} {flag}{ping}".Trim();
+            return $"{handle} {flag}{ping}".Trim();
         }
 
         public string GetDeduplicationKey()
