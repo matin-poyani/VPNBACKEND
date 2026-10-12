@@ -1,829 +1,805 @@
-تعداد: 275
-آپدیت: 2026-10-12 09:33 UTC
+تعداد: 267
+آپدیت: 2026-10-12 19:20 UTC
 ================================================================================
 
-1. @vpn_free_iranin 🇺🇸 Xray RTT 55ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREZBXHVEODNDXHVEREY4IFhyYXkgUlRUIDU1bXMiLCJhZGQiOiI2Ny4yMjAuODUuNDYiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJVUyBcdUQ4M0NcdURERkFcdUQ4M0NcdURERjggfCBAUmF5ZGlrYWx4IHwgQkE0M0EzIn0=
+1. @vpn_free_iranin 🇨🇦 Xray RTT 64ms
+   vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2064ms
 
-2. @vpn_free_iranin 🇨🇦 Xray RTT 66ms
-   vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2066ms
+2. @vpn_free_iranin 🇨🇦 Xray RTT 65ms
+   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=snip.edgeoneai.cc.cd&path=%2F%3FTelegram---DailyConfigs---DailyConfigs---DailyConfigs#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2065ms
 
-3. @vpn_free_iranin 🇨🇦 Xray RTT 76ms
-   vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2076ms
+3. @vpn_free_iranin 🇨🇦 Xray RTT 72ms
+   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2072ms
 
-4. @vpn_free_iranin 🇨🇦 Xray RTT 77ms
-   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@www.speedtest.net:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560%23Telegram---mehrosaboran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2077ms
+4. @vpn_free_iranin 🇨🇦 Xray RTT 74ms
+   vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2074ms
 
-5. @vpn_free_iranin 🌍 Xray RTT 77ms
-   vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?security=reality&encryption=none&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=c85d029f5e8eb393#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2077ms
+5. @vpn_free_iranin 🇨🇦 Xray RTT 75ms
+   vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=/fp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2075ms
 
-6. @vpn_free_iranin 🌍 Xray RTT 78ms
-   trojan://bpb-trojan@172.64.80.1:443?security=tls&sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&Host=vless.herogoing.top#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2078ms
+6. @vpn_free_iranin 🇨🇦 Xray RTT 75ms
+   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2075ms
 
 7. @vpn_free_iranin 🇨🇦 Xray RTT 80ms
-   vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=/fp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2080ms
+   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2080ms
 
-8. @vpn_free_iranin 🇺🇸 Xray RTT 84ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%2084ms
+8. @vpn_free_iranin 🇨🇦 Xray RTT 85ms
+   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2085ms
 
 9. @vpn_free_iranin 🇨🇦 Xray RTT 86ms
-   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&host=snip.edgeoneai.cc.cd&type=ws&encryption=none&insecure=0&allowInsecure=0&security=tls&sni=snip.edgeoneai.cc.cd&path=%2F%3FTELEGRAM-TOOTFFARANGI&alpn=http%2F1.1#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2086ms
+   vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2086ms
 
-10. @vpn_free_iranin 🇨🇦 Xray RTT 88ms
-   vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2088ms
+10. @vpn_free_iranin 🇨🇦 Xray RTT 90ms
+   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2090ms
 
-11. @vpn_free_iranin 🇺🇸 Xray RTT 88ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%2088ms
+11. @vpn_free_iranin 🇨🇦 Xray RTT 95ms
+   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@www.speedtest.net:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560%23Telegram---mehrosaboran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2095ms
 
-12. @vpn_free_iranin 🌍 Xray RTT 88ms
-   vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2088ms
+12. @vpn_free_iranin 🇨🇦 Xray RTT 98ms
+   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@www.speedtest.net:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560%23Telegram---mehrosaboran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2098ms
 
-13. @vpn_free_iranin 🇨🇦 Xray RTT 89ms
-   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2Ffdip%23&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2089ms
+13. @vpn_free_iranin 🇨🇦 Xray RTT 117ms
+   vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20117ms
 
-14. @vpn_free_iranin 🌍 Xray RTT 89ms
-   vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2089ms
+14. @vpn_free_iranin 🇨🇦 Xray RTT 125ms
+   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&host=snip.edgeoneai.cc.cd&type=ws&encryption=none&insecure=0&allowInsecure=0&security=tls&sni=snip.edgeoneai.cc.cd&path=%2F%3FTELEGRAM-TOOTFFARANGI&alpn=http%2F1.1#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20125ms
 
-15. @vpn_free_iranin 🇺🇸 Xray RTT 90ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%2090ms
+15. @vpn_free_iranin 🌍 Xray RTT 152ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMTUybXMiLCJhZGQiOiIxMjkuMTQ2Ljc3LjI0OCIsInBvcnQiOiIzOTQ5NSIsImlkIjoiZjgzNmM3MzYtODdmYy00ZmRlLWFhYmMtMDA4NTdlY2RmZjNlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6IjEyOS4xNDYuNzcuMjQ4In0=
 
-16. @vpn_free_iranin 🇨🇦 Xray RTT 90ms
-   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2090ms
+16. @vpn_free_iranin 🇨🇦 Xray RTT 155ms
+   vmess://eyJhZGQiOiJ1czE2LTQuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXIxLjk5NjYzMzgueHl6IiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvZWZyc2Rpb3k5OHdlcnQ/ZWQ9MjU2MCIsInBvcnQiOiI0NDMiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREU4XHVEODNDXHVEREU2IFhyYXkgUlRUIDE1NW1zIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMS45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInYiOiIyIn0=
 
-17. @vpn_free_iranin 🌍 Xray RTT 90ms
-   trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?security=tls&sni=dimskiee.biz.id&type=ws&path=/WangCai-8&Host=dimskiee.biz.id#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2090ms
+17. @vpn_free_iranin 🇺🇸 Xray RTT 155ms
+   vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&encryption=none&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&headerType=none&fp=chrome&spx=%2Fa6f16ebc763b16c&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=21270a66#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20155ms
 
-18. @vpn_free_iranin 🌍 Xray RTT 91ms
-   vless://261f011c-e97a-4d72-b596-e6329b50b47b@104.243.33.154:45299?security=none&encryption=none&host=check-host.net&headerType=none&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2091ms
+18. @vpn_free_iranin 🇨🇦 Xray RTT 170ms
+   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2Ffdip%23&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20170ms
 
-19. @vpn_free_iranin 🇨🇦 Xray RTT 92ms
-   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.135.234:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2092ms
+19. @vpn_free_iranin 🇨🇦 Xray RTT 171ms
+   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.135.234:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20171ms
 
-20. @vpn_free_iranin 🇨🇦 Xray RTT 92ms
-   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=snip.edgeoneai.cc.cd&path=%2F%3FTelegram---DailyConfigs---DailyConfigs---DailyConfigs#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2092ms
+20. @vpn_free_iranin 🇨🇦 Xray RTT 182ms
+   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?allowInsecure=0&host=lucasjow.us.ci&type=ws&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---TOOTFFARANGI&encryption=none&insecure=0&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&security=tls&alpn=http%2F1.1&sni=lucasjow.us.ci&fp=chrome#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20182ms
 
-21. @vpn_free_iranin 🇨🇦 Xray RTT 92ms
-   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@www.speedtest.net:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560%23Telegram---mehrosaboran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2092ms
+21. @vpn_free_iranin 🇨🇦 Xray RTT 187ms
+   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20187ms
 
-22. @vpn_free_iranin 🌍 Xray RTT 92ms
-   trojan://Telegram_healer_config@104.21.56.172:443?path=/tr/iKNPzyUClLafWsNIz03UG9xb?ed&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=bktF381B04NcHTXKN8TideZQGF.TcNtH9S31mG1j4TNxLAD62o1s2o.wOrKeRs.dEV#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2092ms
+22. @vpn_free_iranin 🇨🇦 Xray RTT 188ms
+   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---DailyConfigs&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20188ms
 
-23. @vpn_free_iranin 🇺🇸 Xray RTT 93ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM--i10VPN&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%2093ms
+23. @vpn_free_iranin 🌍 Xray RTT 189ms
+   vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20189ms
 
-24. @vpn_free_iranin 🇨🇦 Xray RTT 93ms
-   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2F%3FTelegramV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2093ms
+24. @vpn_free_iranin 🇺🇸 Xray RTT 208ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREZBXHVEODNDXHVEREY4IFhyYXkgUlRUIDIwOG1zIiwiYWRkIjoiNjcuMjIwLjg1LjQ2IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiVVMgXHVEODNDXHVEREZBXHVEODNDXHVEREY4IHwgQFJheWRpa2FseCB8IEJBNDNBMyJ9
 
-25. @vpn_free_iranin 🇨🇦 Xray RTT 93ms
-   vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2093ms
+25. @vpn_free_iranin 🇨🇦 Xray RTT 232ms
+   vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkBQcm94eVZQTjExIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0BQcm94eVZQTjExIiwicG9ydCI6IjE4MDAwIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNiBYcmF5IFJUVCAyMzJtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-26. @vpn_free_iranin 🇺🇸 Xray RTT 95ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%2095ms
+26. @vpn_free_iranin 🇨🇦 Xray RTT 236ms
+   vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOjAsImhvc3QiOiJndWFud2FuZy5hd3Nuby5jb20iLCJpZCI6IjZhODlhMjE1LTIyYmYtNGJkNy05NjQyLWI5NWIyZTA5NTgzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNiBYcmF5IFJUVCAyMzZtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSJ9
 
-27. @vpn_free_iranin 🇨🇦 Xray RTT 97ms
-   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%2097ms
+27. @vpn_free_iranin 🇨🇦 Xray RTT 278ms
+   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560%23Telegram---MTMVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20278ms
 
-28. @vpn_free_iranin 🇨🇦 Xray RTT 101ms
-   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---DailyConfigs&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20101ms
+28. @vpn_free_iranin 🇺🇸 Xray RTT 285ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERkFcdUQ4M0NcdURERjggWHJheSBSVFQgMjg1bXMiLCJhZGQiOiI2Ny4yMjAuOTUuMyIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 
-29. @vpn_free_iranin 🇨🇦 Xray RTT 105ms
-   vless://26168a04-a91c-48fc-b8d0-3ba5a4e719c4@188.114.97.6:443?path=%2Fvl%2F17NBgz64AfwQ4Dd6qdNR%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=2yijonkovdic86iq5ebnd1moqqf.yyuz0mhr4awg8vw-wwycuu4.workers.dev&type=ws&allowInsecure=0&sni=2yijonkovdic86iq5ebnd1moqqf.yyuz0mhr4awg8vw-wwycuu4.workers.dev#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20105ms
+29. @vpn_free_iranin 🌍 Xray RTT 314ms
+   vless://261f011c-e97a-4d72-b596-e6329b50b47b@104.243.33.154:45299?security=none&encryption=none&host=check-host.net&headerType=none&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20314ms
 
-30. @vpn_free_iranin 🇺🇸 Xray RTT 109ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERkFcdUQ4M0NcdURERjggWHJheSBSVFQgMTA5bXMiLCJhZGQiOiI2Ny4yMjAuOTUuMyIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+30. @vpn_free_iranin 🇺🇸 Xray RTT 332ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20332ms
 
-31. @vpn_free_iranin 🇨🇦 Xray RTT 112ms
-   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY-joinV2XAY&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20112ms
+31. @vpn_free_iranin 🇺🇸 Xray RTT 336ms
+   vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20336ms
 
-32. @vpn_free_iranin 🇨🇦 Xray RTT 116ms
-   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20116ms
+32. @vpn_free_iranin 🇺🇸 Xray RTT 345ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20345ms
 
-33. @vpn_free_iranin 🇨🇦 Xray RTT 122ms
-   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?allowInsecure=0&host=lucasjow.us.ci&type=ws&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---TOOTFFARANGI&encryption=none&insecure=0&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&security=tls&alpn=http%2F1.1&sni=lucasjow.us.ci&fp=chrome#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20122ms
+33. @vpn_free_iranin 🌍 Xray RTT 346ms
+   vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20346ms
 
-34. @vpn_free_iranin 🇨🇦 Xray RTT 122ms
-   vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkBQcm94eVZQTjExIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0BQcm94eVZQTjExIiwicG9ydCI6IjE4MDAwIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNiBYcmF5IFJUVCAxMjJtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+34. @vpn_free_iranin 🌍 Xray RTT 347ms
+   vless://35775d34-6559-4067-8e49-253df65fba27@xray1-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20347ms
 
-35. @vpn_free_iranin 🇨🇦 Xray RTT 122ms
-   vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20122ms
+35. @vpn_free_iranin 🇨🇦 Xray RTT 352ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMzUybXMiLCJhZGQiOiJjZi4wc20uY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJwYXRoIjoiL3dzP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiZnAiOiJjaHJvbWUifQ==
 
-36. @vpn_free_iranin 🇨🇦 Xray RTT 128ms
-   vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20128ms
+36. @vpn_free_iranin 🇺🇸 Xray RTT 364ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.182:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20364ms
 
-37. @vpn_free_iranin 🇺🇸 Xray RTT 129ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20129ms
+37. @vpn_free_iranin 🌍 Xray RTT 397ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMzk3bXMiLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6IjU5MjM2IiwiaWQiOiIyMzg3YmZiYy0xMGE2LTRiZDctZGM1NS03Y2JhOTU0Y2U2ZTgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20ifQ==
 
-38. @vpn_free_iranin 🇺🇸 Xray RTT 148ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20148ms
+38. @vpn_free_iranin 🇺🇸 Xray RTT 426ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20426ms
 
-39. @vpn_free_iranin 🇨🇦 Xray RTT 152ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMTUybXMiLCJhZGQiOiJjZi4wc20uY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJwYXRoIjoiL3dzP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiZnAiOiJjaHJvbWUifQ==
+39. @vpn_free_iranin 🌍 Xray RTT 438ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDQzOG1zIiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IkpQIFx1RDgzQ1x1RERFRlx1RDgzQ1x1RERGNSB8IEBSYXlkaWthbHggfCA3QjRFRDgifQ==
 
-40. @vpn_free_iranin 🇨🇦 Xray RTT 156ms
-   vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560%23Telegram---MTMVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20156ms
+40. @vpn_free_iranin 🇯🇵 Xray RTT 455ms
+   trojan://UX82473651@legible-ram.rooster465.autos:443?security=tls&sni=legible-ram.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20455ms
 
-41. @vpn_free_iranin 🇺🇸 Xray RTT 157ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20157ms
+41. @vpn_free_iranin 🇯🇵 Xray RTT 468ms
+   trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20468ms
 
-42. @vpn_free_iranin 🇺🇸 Xray RTT 162ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20162ms
+42. @vpn_free_iranin 🇭🇰 Xray RTT 474ms
+   vmess://eyJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYxMTIiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDQ3NG1zIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-43. @vpn_free_iranin 🇺🇸 Xray RTT 169ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=yahoo.com#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20169ms
+43. @vpn_free_iranin 🇭🇰 Xray RTT 475ms
+   vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDE4IiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCA0NzVtcyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-44. @vpn_free_iranin 🇺🇸 Xray RTT 171ms
-   vmess://eyJhZGQiOiIxMjkuMTQ2LjE0My44MCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZDQ2MDNjYzItZTBlZS00NjUxLTgzZjUtMWRiNWI3MTY4MTc3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODExMSIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERkFcdUQ4M0NcdURERjggWHJheSBSVFQgMTcxbXMiLCJzbmkiOiIxMjkuMTQ2LjE0My44MCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+44. @vpn_free_iranin 🌍 Xray RTT 475ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgNDc1bXMiLCJhZGQiOiIzMS43Ni4xMS44MyIsInBvcnQiOjIyMjY2LCJpZCI6IjJkOGY1N2JkLTEyYjUtNDFhZC1hODA2LTY1MDE3NTNjMjY0YyIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUifQ==
 
-45. @vpn_free_iranin 🇺🇸 Xray RTT 175ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERkFcdUQ4M0NcdURERjggWHJheSBSVFQgMTc1bXMiLCJhZGQiOiIxMjkuMTQ2LjE0My44MCIsInBvcnQiOiI0ODExMSIsImlkIjoiZDQ2MDNjYzItZTBlZS00NjUxLTgzZjUtMWRiNWI3MTY4MTc3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6Imh0dHAvMS4xIn0=
+45. @vpn_free_iranin 🇯🇵 Xray RTT 497ms
+   trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20497ms
 
-46. @vpn_free_iranin 🇺🇸 Xray RTT 194ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20194ms
+46. @vpn_free_iranin 🌍 Xray RTT 513ms
+   vless://f0466557-2fd5-442e-94cb-12c6b764155e@51.79.31.36:31146?security=reality&encryption=none&pbk=QAoJHZT6_DZsBu-jH74uYZUTpGgxmvN2tXpRKj4CygE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play-fe.googleapis.com&sid=cf4e6f8338#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20513ms
 
-47. @vpn_free_iranin 🇺🇸 Xray RTT 202ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20202ms
+47. @vpn_free_iranin 🌍 Xray RTT 515ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDUxNW1zIiwiYWRkIjoiMTQ5Ljg4LjIzLjIwNyIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlNHIFx1RDgzQ1x1RERGOFx1RDgzQ1x1RERFQyB8IEBSYXlkaWthbHggfCBDQUYzNEYifQ==
 
-48. @vpn_free_iranin 🇺🇸 Xray RTT 207ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20207ms
+48. @vpn_free_iranin 🌍 Xray RTT 524ms
+   trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20524ms
 
-49. @vpn_free_iranin 🌍 Xray RTT 224ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMjI0bXMiLCJhZGQiOiIxMjkuMTQ2Ljc3LjI0OCIsInBvcnQiOiIzOTQ5NSIsImlkIjoiZjgzNmM3MzYtODdmYy00ZmRlLWFhYmMtMDA4NTdlY2RmZjNlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6IjEyOS4xNDYuNzcuMjQ4In0=
+49. @vpn_free_iranin 🌍 Xray RTT 533ms
+   trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&sni=equipped-stingray.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20533ms
 
-50. @vpn_free_iranin 🌍 Xray RTT 229ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMjI5bXMiLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6IjU5MjM2IiwiaWQiOiIyMzg3YmZiYy0xMGE2LTRiZDctZGM1NS03Y2JhOTU0Y2U2ZTgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20ifQ==
+50. @vpn_free_iranin 🌍 Xray RTT 534ms
+   vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20534ms
 
-51. @vpn_free_iranin 🌍 Xray RTT 259ms
-   vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20259ms
+51. @vpn_free_iranin 🇩🇪 Xray RTT 546ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERTlcdUQ4M0NcdURERUEgWHJheSBSVFQgNTQ2bXMiLCJhZGQiOiJsdWNhcy5laHNhbmF6aXppLXNwZWVkLXNlcnZlci5jb20iLCJwb3J0IjoiMjExMCIsImlkIjoiMDZkNGQwMDEtNDE2OC00ODc2LTk0MTYtN2NhZWNmNTc4ZjQwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiJ9
 
-52. @vpn_free_iranin 🇨🇦 Xray RTT 274ms
-   vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.22:443?path=%2Fraccoonwsvless&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=luminouspetal.cyou&fp=chrome&ech=luminouspetal.cyou%2Bhttps%3A%2F%2F1.1.1.1%2Fdns-query&type=ws&allowInsecure=0&sni=luminouspetal.cyou#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20274ms
+52. @vpn_free_iranin 🌍 Xray RTT 565ms
+   trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20565ms
 
-53. @vpn_free_iranin 🌍 Xray RTT 313ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMzEzbXMiLCJhZGQiOiIzMS43Ni4xMS44MyIsInBvcnQiOjIyMjY2LCJpZCI6IjJkOGY1N2JkLTEyYjUtNDFhZC1hODA2LTY1MDE3NTNjMjY0YyIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUifQ==
+53. @vpn_free_iranin 🇬🇧 Xray RTT 573ms
+   vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#%40vpn_free_iranin%20%F0%9F%87%AC%F0%9F%87%A7%20Xray%20RTT%20573ms
 
-54. @vpn_free_iranin 🇺🇸 Xray RTT 329ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20329ms
+54. @vpn_free_iranin 🌍 Xray RTT 586ms
+   vless://c423cc1b-f88e-421c-9a16-c480d84da20f@198.251.78.29:2053?security=reality&encryption=none&pbk=Uk5b-Wh_uxeCc7R8NS9iWE40xc0h9wWC04rSB9yhgAw&headerType=none&type=tcp&sni=www.cloudflare.com&sid=b5d625695ec82c7e#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20586ms
 
-55. @vpn_free_iranin 🌍 Xray RTT 331ms
-   trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20331ms
+55. @vpn_free_iranin 🌍 Xray RTT 588ms
+   vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@tomaz1337shellbuy.vvzzkontaktezzvv.garden:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk&security=reality&sid=2e124af254a65e7c&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20588ms
 
-56. @vpn_free_iranin 🌍 Xray RTT 340ms
-   vless://ee18d188-14cc-417e-beb1-70e4add6d023@23.81.36.65:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&security=reality&sid=0da7e14db353e7d0&sni=uk.nztvpn.com&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20340ms
+56. @vpn_free_iranin 🇩🇪 Xray RTT 603ms
+   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@87.121.47.74:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=de-4.ardesnode.ru&sid=9ea74b83f4993ca9#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20603ms
 
-57. @vpn_free_iranin 🇺🇸 Xray RTT 341ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.182:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20341ms
+57. @vpn_free_iranin 🌍 Xray RTT 607ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgNjA3bXMiLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9
 
-58. @vpn_free_iranin 🌍 Xray RTT 346ms
-   vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20346ms
+58. @vpn_free_iranin 🌍 Xray RTT 607ms
+   vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20607ms
 
-59. @vpn_free_iranin 🇬🇧 Xray RTT 348ms
-   vless://99955907-9070-46f0-a200-9c7a0b9d74fe@23.81.34.204:443?security=reality&encryption=none&pbk=J_p_dxR8dIKaezk1_Ins5MZ7e4dqgrr2n9690vVuQ2s&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=b19b017d6f453873#%40vpn_free_iranin%20%F0%9F%87%AC%F0%9F%87%A7%20Xray%20RTT%20348ms
+59. @vpn_free_iranin 🌍 Xray RTT 613ms
+   trojan://UX82473651@cunning-grub.rooster465.autos:443?security=tls&sni=cunning-grub.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20613ms
 
-60. @vpn_free_iranin 🇬🇧 Xray RTT 357ms
-   vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6MCwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6ImEyNWNiZjExLTI5MDgtNGExYi1hM2E4LTlhNTcxNzc3ZGNhMyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFQ1x1RDgzQ1x1RERFNyBYcmF5IFJUVCAzNTdtcyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+60. @vpn_free_iranin 🌍 Xray RTT 616ms
+   vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.vk.me&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20616ms
 
-61. @vpn_free_iranin 🇬🇧 Xray RTT 358ms
-   vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOjgwLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVDXHVEODNDXHVEREU3IFhyYXkgUlRUIDM1OG1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwibmFtZSI6IkdCIFx1RDgzQ1x1RERFQ1x1RDgzQ1x1RERFNyB8IEBSYXlkaWthbHggfCBBMjY5ODAifQ==
+61. @vpn_free_iranin 🇯🇵 Xray RTT 617ms
+   trojan://UX82473651@optimal-penguin.rooster465.autos:443?security=tls&sni=optimal-penguin.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20617ms
 
-62. @vpn_free_iranin 🇬🇧 Xray RTT 359ms
-   vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%AC%F0%9F%87%A7%20Xray%20RTT%20359ms
+62. @vpn_free_iranin 🌍 Xray RTT 617ms
+   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@de-4.ardesnode.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de-4.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20617ms
 
-63. @vpn_free_iranin 🇬🇧 Xray RTT 366ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVDXHVEODNDXHVEREU3IFhyYXkgUlRUIDM2Nm1zIiwiYWRkIjoiNTcuMTI5LjEzMi4yMjMiLCJwb3J0Ijo4MCwiaWQiOiJhMjVjYmYxMS0yOTA4LTRhMWItYTNhOC05YTU3MTc3N2RjYTMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6InZpYmVyLmNvbSIsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJHQiBcdUQ4M0NcdURERUNcdUQ4M0NcdURERTcgfCBAUmF5ZGlrYWx4IHwgMzYwMjI3In0=
+63. @vpn_free_iranin 🌍 Xray RTT 618ms
+   trojan://UX82473651@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20618ms
 
-64. @vpn_free_iranin 🇳🇱 Xray RTT 367ms
-   vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%20367ms
+64. @vpn_free_iranin 🌍 Xray RTT 626ms
+   trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20626ms
 
-65. @vpn_free_iranin 🇩🇪 Xray RTT 371ms
-   vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.srv.vbuste.ru&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20371ms
+65. @vpn_free_iranin 🌍 Xray RTT 626ms
+   vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20626ms
 
-66. @vpn_free_iranin 🇳🇱 Xray RTT 372ms
-   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=nd-3.ardesnode.ru&sid=9ea74b83f4993ca9#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%20372ms
+66. @vpn_free_iranin 🇰🇷 Xray RTT 631ms
+   trojan://UX82473651@glorious-lark.rooster465.autos:443?security=tls&sni=glorious-lark.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B0%F0%9F%87%B7%20Xray%20RTT%20631ms
 
-67. @vpn_free_iranin 🇩🇪 Xray RTT 374ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERTlcdUQ4M0NcdURERUEgWHJheSBSVFQgMzc0bXMiLCJhZGQiOiI1LjQ1Ljk3LjE0NyIsInBvcnQiOiIxMDgwMyIsImlkIjoiMDE4ZmJmYjctNzIxYS00OWE5LWI5ZjUtZmI1NWQ5MjU5MmI2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiLyJ9
+67. @vpn_free_iranin 🇩🇪 Xray RTT 639ms
+   vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.srv.vbuste.ru&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20639ms
 
-68. @vpn_free_iranin 🇩🇪 Xray RTT 376ms
-   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@87.121.47.74:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=de-4.ardesnode.ru&sid=9ea74b83f4993ca9#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20376ms
+68. @vpn_free_iranin 🇳🇱 Xray RTT 642ms
+   vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&host=%2F%3FTelegram---bored_vpn&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%20642ms
 
-69. @vpn_free_iranin 🌍 Xray RTT 378ms
-   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@de-5.ardesnode.ru:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=de-5.ardesnode.ru&sid=9ea74b83f4993ca9#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20378ms
+69. @vpn_free_iranin 🇦🇪 Xray RTT 644ms
+   vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?security=reality&encryption=none&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=94.249.188.202&sid=7887c27d#%40vpn_free_iranin%20%F0%9F%87%A6%F0%9F%87%AA%20Xray%20RTT%20644ms
 
-70. @vpn_free_iranin 🌍 Xray RTT 382ms
-   trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20382ms
+70. @vpn_free_iranin 🌍 Xray RTT 649ms
+   vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=94.249.188.202&fp=random&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20649ms
 
-71. @vpn_free_iranin 🇩🇪 Xray RTT 382ms
-   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@de-4.ardesnode.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de-4.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20382ms
+71. @vpn_free_iranin 🌍 Xray RTT 650ms
+   vless://9c104116-b231-4626-94cb-6d8fc4d2b000@50.7.87.122:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sid=ba4b2afa9e7193ea&sni=edge-fr.extazy.net&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20650ms
 
-72. @vpn_free_iranin 🌍 Xray RTT 383ms
-   vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20383ms
+72. @vpn_free_iranin 🇩🇪 Xray RTT 650ms
+   vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality&encryption=none&pbk=LEoyslGYLVf2XWq9Bkq8Hod-EsB3ZoTlvR5AKK3rciQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-de.bulkavpn.top&sid=c885e8f8#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20650ms
 
-73. @vpn_free_iranin 🌍 Xray RTT 383ms
-   vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&encryption=none&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&headerType=none&fp=chrome&spx=%2Fa6f16ebc763b16c&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=21270a66#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20383ms
+73. @vpn_free_iranin 🇩🇪 Xray RTT 658ms
+   vless://36a1c787-fb9e-4fea-ba54-5cb33255d4de@freetg.ghost-service.cc:443?security=reality&encryption=none&pbk=bzv2S23383rd8Ega-o_QrY4PypA6hEA3PrwWWI6LEnQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=freetg.ghost-service.cc&sid=d4943b89d83cb97d#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20658ms
 
-74. @vpn_free_iranin 🌍 Xray RTT 387ms
-   vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20387ms
+74. @vpn_free_iranin 🇸🇬 Xray RTT 665ms
+   vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6MTgwMDAsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERjhcdUQ4M0NcdURERUMgWHJheSBSVFQgNjY1bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJuYW1lIjoiU0cgXHVEODNDXHVEREY4XHVEODNDXHVEREVDIHwgQFJheWRpa2FseCB8IDY4OTY1OSJ9
 
-75. @vpn_free_iranin 🇳🇱 Xray RTT 410ms
-   vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.vk.me&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%20410ms
+75. @vpn_free_iranin 🇳🇱 Xray RTT 666ms
+   vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%20666ms
 
-76. @vpn_free_iranin 🌍 Xray RTT 418ms
-   trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20418ms
+76. @vpn_free_iranin 🇳🇱 Xray RTT 668ms
+   vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%20668ms
 
-77. @vpn_free_iranin 🌍 Xray RTT 432ms
-   vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20432ms
+77. @vpn_free_iranin 🌍 Xray RTT 676ms
+   vless://e3e9805a-6c8b-4edd-8ee8-621df79806eb@162.35.242.252:443?encryption=none&fp=&pbk=ClG6fvriBTK8donGsTlKusJ0dwRCgVDDTAGzAtZzJDY&security=reality&sid=82c2b7d5e70ff000&sni=nl.aksay.pro&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20676ms
 
-78. @vpn_free_iranin 🇫🇷 Xray RTT 435ms
-   vless://593bf46b-8316-5050-9357-d8a41e4db78b@e3k67dwms3-51255166202-direct.tavafog.com:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%20435ms
+78. @vpn_free_iranin 🇩🇪 Xray RTT 678ms
+   vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.117:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=-bn-69fLm8-ZIN4AWcFJTvliohVXnevdOK6E0HJF90Y&sid=123c2bff&type=tcp&headerType=none&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20678ms
 
-79. @vpn_free_iranin 🇨🇦 Xray RTT 455ms
-   vmess://eyJhZGQiOiJ1czE2LTQuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXIxLjk5NjYzMzgueHl6IiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvZWZyc2Rpb3k5OHdlcnQ/ZWQ9MjU2MCIsInBvcnQiOiI0NDMiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREU4XHVEODNDXHVEREU2IFhyYXkgUlRUIDQ1NW1zIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMS45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInYiOiIyIn0=
+79. @vpn_free_iranin 🌍 Xray RTT 681ms
+   vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.128:443?security=reality&encryption=none&pbk=RTG-xTU5UuKTRrkk8_COe04GiUWrqrSdt9mqSak_XEc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=e696e744#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20681ms
 
-80. @vpn_free_iranin 🌍 Xray RTT 456ms
-   vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.128:443?security=reality&encryption=none&pbk=RTG-xTU5UuKTRrkk8_COe04GiUWrqrSdt9mqSak_XEc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=e696e744#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20456ms
+80. @vpn_free_iranin 🇫🇷 Xray RTT 686ms
+   vless://593bf46b-8316-5050-9357-d8a41e4db78b@e3k67dwms3-51255166202-direct.tavafog.com:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%20686ms
 
-81. @vpn_free_iranin 🇩🇪 Xray RTT 458ms
-   vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.117:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=-bn-69fLm8-ZIN4AWcFJTvliohVXnevdOK6E0HJF90Y&sid=123c2bff&type=tcp&headerType=none&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20458ms
+81. @vpn_free_iranin 🇫🇷 Xray RTT 691ms
+   vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@31.76.68.245:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=INbgA5nXpjZ2P1f6lY7sMBlDM3ZMV8RX3cw-RRGM0mM&sid=f22e97cfd4d9&sni=fra01.deflink.net&encryption=none#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%20691ms
 
-82. @vpn_free_iranin 🇩🇪 Xray RTT 462ms
-   trojan://3ixF51QWmFNmKOO_utPxVL-7gYYUb6HC@b1.3danimation3.com:8443?security=tls&sni=b1.3danimation3.com#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20462ms
+82. @vpn_free_iranin 🌍 Xray RTT 708ms
+   vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20708ms
 
-83. @vpn_free_iranin 🌍 Xray RTT 463ms
-   trojan://UX82473651@3.253.106.233:443?security=tls&sni=loved-shark.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20463ms
+83. @vpn_free_iranin 🌍 Xray RTT 709ms
+   trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-molly.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20709ms
 
-84. @vpn_free_iranin 🌍 Xray RTT 465ms
-   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@pl-1.ardesnode.ru:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pl-1.ardesnode.ru&sid=9ea74b83f4993ca9#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20465ms
+84. @vpn_free_iranin 🌍 Xray RTT 709ms
+   trojan://UX82473651@intense-wildcat.rooster465.autos:443?security=tls&sni=intense-wildcat.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20709ms
 
-85. @vpn_free_iranin 🌍 Xray RTT 466ms
-   vless://c423cc1b-f88e-421c-9a16-c480d84da20f@198.251.78.29:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Uk5b-Wh_uxeCc7R8NS9iWE40xc0h9wWC04rSB9yhgAw&sid=b5d625695ec82c7e&type=tcp&headerType=none&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20466ms
+85. @vpn_free_iranin 🌍 Xray RTT 718ms
+   vmess://eyJhZGQiOiJqcDUuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXIxMS45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2lldXNyZGdmaHRldWlyZ2ZpdXdzP2VkPTI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1REYwRCBYcmF5IFJUVCA3MThtcyIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6InNlcnZlcjExLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidiI6IjIifQ==
 
-86. @vpn_free_iranin 🌍 Xray RTT 474ms
-   vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality&encryption=none&pbk=LEoyslGYLVf2XWq9Bkq8Hod-EsB3ZoTlvR5AKK3rciQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-de.bulkavpn.top&sid=c885e8f8#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20474ms
+86. @vpn_free_iranin 🌍 Xray RTT 722ms
+   trojan://UX82473651@inspired-hound.rooster465.autos:443?security=tls&sni=inspired-hound.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20722ms
 
-87. @vpn_free_iranin 🇳🇱 Xray RTT 478ms
-   vless://d342d11e-d224-4463-b982-532309285094@107.189.26.160:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%20478ms
+87. @vpn_free_iranin 🌍 Xray RTT 731ms
+   vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080&type=tcp&headerType=none&path=/#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20731ms
 
-88. @vpn_free_iranin 🌍 Xray RTT 479ms
-   vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20479ms
+88. @vpn_free_iranin 🇸🇬 Xray RTT 741ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREY4XHVEODNDXHVEREVDIFhyYXkgUlRUIDc0MW1zIiwiYWRkIjoid3cxMS5sZXZpa29namdmZGQuaXIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJTRyBcdUQ4M0NcdURERjhcdUQ4M0NcdURERUMgfCBAUmF5ZGlrYWx4IHwgM0FEMzYzIn0=
 
-89. @vpn_free_iranin 🌍 Xray RTT 482ms
-   vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&encryption=none&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=vkvd754.okcdn.ru&sid=ef1d3554c652a436#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20482ms
+89. @vpn_free_iranin 🌍 Xray RTT 745ms
+   vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=tcp&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=chrome#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20745ms
 
-90. @vpn_free_iranin 🌍 Xray RTT 486ms
-   vless://b7942662-e581-4bee-ab52-02a1bf34e4c4@65.108.248.89:443?encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&path=%2F&security=none&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20486ms
+90. @vpn_free_iranin 🌍 Xray RTT 746ms
+   vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&encryption=none&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=vkvd754.okcdn.ru&sid=ef1d3554c652a436#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20746ms
 
-91. @vpn_free_iranin 🌍 Xray RTT 488ms
-   vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?authority=&encryption=none&fp=chrome&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&security=reality&serviceName=grpc_common2&sid=df&sni=perf-prod.samsung.com&spx=%2F3f9d322afd1602c&type=grpc#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20488ms
+91. @vpn_free_iranin 🌍 Xray RTT 750ms
+   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@213.21.232.26:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&sni=pl-3.ardesnode.ru#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20750ms
 
-92. @vpn_free_iranin 🇳🇱 Xray RTT 497ms
-   vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.75:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=firefox&type=grpc&serviceName=GunService&sni=github.com#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%20497ms
+92. @vpn_free_iranin 🌍 Xray RTT 767ms
+   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.252.177.216:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&security=reality&sid=9ea74b83f4993ca9&sni=est-1.ardesnode.ru&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20767ms
 
-93. @vpn_free_iranin 🌍 Xray RTT 515ms
-   vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=tcp&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=chrome#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20515ms
+93. @vpn_free_iranin 🌍 Xray RTT 771ms
+   vless://d342d11e-d224-4463-b982-532309285094@107.189.26.160:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20771ms
 
-94. @vpn_free_iranin 🌍 Xray RTT 516ms
-   vless://c423cc1b-f88e-421c-9a16-c480d84da20f@198.251.78.29:2053?security=reality&encryption=none&pbk=Uk5b-Wh_uxeCc7R8NS9iWE40xc0h9wWC04rSB9yhgAw&headerType=none&type=tcp&sni=www.cloudflare.com&sid=b5d625695ec82c7e#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20516ms
+94. @vpn_free_iranin 🌍 Xray RTT 782ms
+   trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=tls&sni=meet-goshawk.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20782ms
 
-95. @vpn_free_iranin 🌍 Xray RTT 520ms
-   trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20520ms
+95. @vpn_free_iranin 🇭🇰 Xray RTT 783ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgNzgzbXMiLCJhZGQiOiI2amR2YXJhemd1M3FxcjZxLnYuM2Rucy52aXAiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwicGF0aCI6Ii93cy12bWVzcyIsInNuaSI6IjZqZHZhcmF6Z3UzcXFyNnEudi4zZG5zLnZpcCIsImFsbG93SW5zZWN1cmUiOiIxIiwiaW5zZWN1cmUiOiIxIiwic2N5IjoiYXV0byIsImhvc3QiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
-96. @vpn_free_iranin 🇩🇪 Xray RTT 545ms
-   vless://d342d11e-d224-4463-b982-532309285094@157.230.101.36:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20545ms
+96. @vpn_free_iranin 🇭🇰 Xray RTT 784ms
+   vmess://eyJhZGQiOiI0Ny4yNDMuNjUuMjQzIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoibGN2OHY5bDdPeWFteHhmWi52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgRDc1NUYwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDc4NG1zIiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjoidGxzIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
 
-97. @vpn_free_iranin 🌍 Xray RTT 550ms
-   trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=tls&sni=meet-goshawk.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20550ms
+97. @vpn_free_iranin 🇨🇦 Xray RTT 784ms
+   vmess://eyJhZGQiOiJ1azItMi45OTg5OTguYmVzdCIsImFpZCI6MCwiaG9zdCI6InNlcnZlcjMuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii93YWV0YXNpdW9mZ3Vpd2VyP2VkPTI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNiBYcmF5IFJUVCA3ODRtcyIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6InNlcnZlcjMuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9
 
-98. @vpn_free_iranin 🌍 Xray RTT 553ms
-   vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=chrome&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20553ms
+98. @vpn_free_iranin 🇫🇷 Xray RTT 785ms
+   vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@31.76.68.245:443?security=reality&encryption=none&pbk=INbgA5nXpjZ2P1f6lY7sMBlDM3ZMV8RX3cw-RRGM0mM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra01.deflink.net&sid=f22e97cfd4d9#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%20785ms
 
-99. @vpn_free_iranin 🌍 Xray RTT 561ms
-   vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&sid=2fed44d8c59f7e71&type=grpc&authority=&serviceName=grpc_common3&mode=gun#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20561ms
+99. @vpn_free_iranin 🇭🇰 Xray RTT 788ms
+   vmess://eyJhZGQiOiI0Ny4yNDMuMTUzLjE1MyIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6IiIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IERFNzNFQyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCA3ODhtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiJpMnBzbTNrbm9mNXFqaml4LnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
 
-100. @vpn_free_iranin 🇨🇦 Xray RTT 562ms
-   vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOjAsImhvc3QiOiJndWFud2FuZy5hd3Nuby5jb20iLCJpZCI6IjZhODlhMjE1LTIyYmYtNGJkNy05NjQyLWI5NWIyZTA5NTgzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNiBYcmF5IFJUVCA1NjJtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSJ9
+100. @vpn_free_iranin 🇭🇰 Xray RTT 792ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgNzkybXMiLCJhZGQiOiI4LjIxNy4xMy4xMDMiLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsImhvc3QiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIn0=
 
-101. @vpn_free_iranin 🇩🇪 Xray RTT 573ms
-   vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20573ms
+101. @vpn_free_iranin 🌍 Xray RTT 792ms
+   vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&security=reality&sid=52c723e0fad49689&sni=www.nvidia.com&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20792ms
 
-102. @vpn_free_iranin 🇨🇦 Xray RTT 589ms
-   vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgNTg5bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
+102. @vpn_free_iranin 🌍 Xray RTT 795ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgNzk1bXMiLCJhZGQiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoicmFuZG9tIn0=
 
-103. @vpn_free_iranin 🇨🇦 Xray RTT 603ms
-   vmess://eyJhZGQiOiJ3d3cuc2hvcGlmeS5jb20iLCJhaWQiOjAsImhvc3QiOiJndWFud2FuZy5hd3Nuby5jb20iLCJpZCI6IjZhODlhMjE1LTIyYmYtNGJkNy05NjQyLWI5NWIyZTA5NTgzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInBvcnQiOiI0NDMiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREU4XHVEODNDXHVEREU2IFhyYXkgUlRUIDYwM21zIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwidGxzIjoidGxzIiwidiI6IjIifQ==
+103. @vpn_free_iranin 🌍 Xray RTT 799ms
+   trojan://UX82473651@cuddly-sheepdog.rooster465.autos:443?security=tls&sni=cuddly-sheepdog.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20799ms
 
-104. @vpn_free_iranin 🇷🇺 Xray RTT 614ms
-   vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%40vpn_free_iranin%20%F0%9F%87%B7%F0%9F%87%BA%20Xray%20RTT%20614ms
+104. @vpn_free_iranin 🇭🇰 Xray RTT 800ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDgwMG1zIiwiYWRkIjoibGN2OHY5bDdveWFteHhmei52LjNkbnMudmlwIiwicG9ydCI6NDQzLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiIiwiZnAiOm51bGwsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgMjZGRkNDIn0=
 
-105. @vpn_free_iranin 🌍 Xray RTT 615ms
-   vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20615ms
+105. @vpn_free_iranin 🌍 Xray RTT 802ms
+   trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20802ms
 
-106. @vpn_free_iranin 🇨🇦 Xray RTT 619ms
-   vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZz9lZD0yNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgNjE5bXMiLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiJzZXJ2ZXIxMC45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInYiOiIyIn0=
+106. @vpn_free_iranin 🇭🇰 Xray RTT 804ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgODA0bXMiLCJhZGQiOiI2amR2YXJhemd1M3FxcjZxLnYuM2Rucy52aXAiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IjZKRHZBcmF6Z1UzcVFSNlEudi4zZG5zLnZpcCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIn0=
 
-107. @vpn_free_iranin 🇬🇧 Xray RTT 635ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%AC%F0%9F%87%A7%20Xray%20RTT%20635ms
+107. @vpn_free_iranin 🇭🇰 Xray RTT 807ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDgwN21zIiwiYWRkIjoiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwicG9ydCI6NDQzLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IDg1RjczMSJ9
 
-108. @vpn_free_iranin 🌍 Xray RTT 642ms
-   vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20642ms
+108. @vpn_free_iranin 🇭🇰 Xray RTT 808ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDgwOG1zIiwiYWRkIjoiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwicG9ydCI6NDQzLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwiZnAiOm51bGwsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgOUIwQUU5In0=
 
-109. @vpn_free_iranin 🇳🇱 Xray RTT 650ms
-   vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%20650ms
+109. @vpn_free_iranin 🌍 Xray RTT 808ms
+   vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=chrome&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20808ms
 
-110. @vpn_free_iranin 🌍 Xray RTT 650ms
-   vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDE5IiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1REYwRCBYcmF5IFJUVCA2NTBtcyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+110. @vpn_free_iranin 🌍 Xray RTT 809ms
+   vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&sid=2fed44d8c59f7e71&type=grpc&authority=&serviceName=grpc_common3&mode=gun#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20809ms
 
-111. @vpn_free_iranin 🇯🇵 Xray RTT 650ms
-   trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&sni=equipped-stingray.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20650ms
+111. @vpn_free_iranin 🌍 Xray RTT 819ms
+   trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20819ms
 
-112. @vpn_free_iranin 🇯🇵 Xray RTT 651ms
-   trojan://UX82473651@optimal-penguin.rooster465.autos:443?security=tls&sni=optimal-penguin.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20651ms
+112. @vpn_free_iranin 🇺🇸 Xray RTT 826ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20826ms
 
-113. @vpn_free_iranin 🇯🇵 Xray RTT 651ms
-   trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20651ms
+113. @vpn_free_iranin 🇬🇧 Xray RTT 826ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%AC%F0%9F%87%A7%20Xray%20RTT%20826ms
 
-114. @vpn_free_iranin 🇯🇵 Xray RTT 673ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUZcdUQ4M0NcdURERjUgWHJheSBSVFQgNjczbXMiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6Ik5vbmUifQ==
+114. @vpn_free_iranin 🌍 Xray RTT 834ms
+   vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20834ms
 
-115. @vpn_free_iranin 🇯🇵 Xray RTT 677ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUZcdUQ4M0NcdURERjUgWHJheSBSVFQgNjc3bXMiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJob3N0IjoianAwMS5hMGEueHl6In0=
+115. @vpn_free_iranin 🇭🇰 Xray RTT 836ms
+   vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%40vpn_free_iranin%20%F0%9F%87%AD%F0%9F%87%B0%20Xray%20RTT%20836ms
 
-116. @vpn_free_iranin 🌍 Xray RTT 679ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDY3OW1zIiwiYWRkIjoiMTQ5Ljg4LjIzLjIwNyIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlNHIFx1RDgzQ1x1RERGOFx1RDgzQ1x1RERFQyB8IEBSYXlkaWthbHggfCBDQUYzNEYifQ==
+116. @vpn_free_iranin 🇷🇺 Xray RTT 837ms
+   vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@cape.flowzari.info:443?security=reality&encryption=none&pbk=5DdSLIpnYjqYTI4-yC-ulr8PGMA8YML_EWdKvOjdinc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cape.flowzari.info&sid=693e339ad3613446#%40vpn_free_iranin%20%F0%9F%87%B7%F0%9F%87%BA%20Xray%20RTT%20837ms
 
-117. @vpn_free_iranin 🇯🇵 Xray RTT 689ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUZcdUQ4M0NcdURERjUgWHJheSBSVFQgNjg5bXMiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJob3N0IjoiMTY4LjEzOC40My43NSJ9
+117. @vpn_free_iranin 🌍 Xray RTT 859ms
+   vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&headerType=&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20859ms
 
-118. @vpn_free_iranin 🌍 Xray RTT 690ms
-   vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20690ms
+118. @vpn_free_iranin 🇸🇬 Xray RTT 862ms
+   trojan://UX82473651@pet-antelope.rooster465.autos:443?security=tls&sni=pet-antelope.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B8%F0%9F%87%AC%20Xray%20RTT%20862ms
 
-119. @vpn_free_iranin 🇯🇵 Xray RTT 690ms
-   trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20690ms
+119. @vpn_free_iranin 🌍 Xray RTT 862ms
+   trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20862ms
 
-120. @vpn_free_iranin 🇯🇵 Xray RTT 704ms
-   trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20704ms
+120. @vpn_free_iranin 🇬🇧 Xray RTT 863ms
+   vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6MCwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6ImEyNWNiZjExLTI5MDgtNGExYi1hM2E4LTlhNTcxNzc3ZGNhMyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFQ1x1RDgzQ1x1RERFNyBYcmF5IFJUVCA4NjNtcyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 
-121. @vpn_free_iranin 🌍 Xray RTT 709ms
-   vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20709ms
+121. @vpn_free_iranin 🌍 Xray RTT 863ms
+   trojan://UX82473651@3.253.106.233:443?security=tls&sni=loved-shark.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20863ms
 
-122. @vpn_free_iranin 🇩🇪 Xray RTT 710ms
-   trojan://UX82473651@pleased-albacore.rooster465.autos:443?security=tls&sni=pleased-albacore.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20710ms
+122. @vpn_free_iranin 🇩🇪 Xray RTT 898ms
+   vless://d342d11e-d224-4463-b982-532309285094@157.230.101.36:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20898ms
 
-123. @vpn_free_iranin 🌍 Xray RTT 729ms
-   vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&encryption=none&insecure=0&host=fdghyt.com&type=ws&allowInsecure=0&sni=fdghyt.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20729ms
+123. @vpn_free_iranin 🇨🇦 Xray RTT 913ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgOTEzbXMiLCJhZGQiOiJ5ZzEueWdra2suZHBkbnMub3JnIiwicG9ydCI6IjQ0MyIsImlkIjoiYjJiYTRhNzMtMzEyMy00NzllLWFhOTYtNTk3M2E5ZWNkMGMwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqbXAxLjkwNzczNy54eXoiLCJwYXRoIjoiL2IyYmE0YTczLTMxMjMtNDc5ZS1hYTk2LTU5NzNhOWVjZDBjMC12bSIsImhvc3QiOiJqbXAxLjkwNzczNy54eXoifQ==
 
-124. @vpn_free_iranin 🌍 Xray RTT 729ms
-   vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20729ms
+124. @vpn_free_iranin 🇮🇳 Xray RTT 916ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUVcdUQ4M0NcdURERjMgWHJheSBSVFQgOTE2bXMiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0IjoiODAiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIn0=
 
-125. @vpn_free_iranin 🇲🇾 Xray RTT 732ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERjJcdUQ4M0NcdURERkUgWHJheSBSVFQgNzMybXMiLCJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsInBvcnQiOiIxMDAwMCIsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoiIiwidGxzIjoiIn0=
+125. @vpn_free_iranin 🇬🇧 Xray RTT 926ms
+   vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOjgwLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVDXHVEODNDXHVEREU3IFhyYXkgUlRUIDkyNm1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwibmFtZSI6IkdCIFx1RDgzQ1x1RERFQ1x1RDgzQ1x1RERFNyB8IEBSYXlkaWthbHggfCBBMjY5ODAifQ==
 
-126. @vpn_free_iranin 🌍 Xray RTT 750ms
-   vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20750ms
+126. @vpn_free_iranin 🇯🇵 Xray RTT 939ms
+   trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20939ms
 
-127. @vpn_free_iranin 🇹🇷 Xray RTT 771ms
-   vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#%40vpn_free_iranin%20%F0%9F%87%B9%F0%9F%87%B7%20Xray%20RTT%20771ms
+127. @vpn_free_iranin 🌍 Xray RTT 943ms
+   trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20943ms
 
-128. @vpn_free_iranin 🇯🇵 Xray RTT 783ms
-   trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20783ms
+128. @vpn_free_iranin 🇺🇸 Xray RTT 945ms
+   trojan://UX82473651@alert-titmouse.rooster465.autos:443?security=tls&sni=alert-titmouse.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20945ms
 
-129. @vpn_free_iranin 🇸🇬 Xray RTT 789ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREY4XHVEODNDXHVEREVDIFhyYXkgUlRUIDc4OW1zIiwiYWRkIjoid3cxMS5sZXZpa29namdmZGQuaXIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJTRyBcdUQ4M0NcdURERjhcdUQ4M0NcdURERUMgfCBAUmF5ZGlrYWx4IHwgM0FEMzYzIn0=
+129. @vpn_free_iranin 🇮🇳 Xray RTT 946ms
+   vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUVcdUQ4M0NcdURERjMgWHJheSBSVFQgOTQ2bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiMTUyLjY3LjguMjA1IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-130. @vpn_free_iranin 🌍 Xray RTT 790ms
-   vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20790ms
+130. @vpn_free_iranin 🇨🇦 Xray RTT 956ms
+   vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZz9lZD0yNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgOTU2bXMiLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiJzZXJ2ZXIxMC45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInYiOiIyIn0=
 
-131. @vpn_free_iranin 🌍 Xray RTT 799ms
-   trojan://UX82473651@cunning-grub.rooster465.autos:443?security=tls&sni=cunning-grub.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20799ms
+131. @vpn_free_iranin 🇭🇰 Xray RTT 965ms
+   vmess://eyJhZGQiOiI0Ny4yNDMuMTUzLjE1MyIsImFpZCI6MCwiaG9zdCI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDk2NW1zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIn0=
 
-132. @vpn_free_iranin 🇰🇷 Xray RTT 813ms
-   trojan://UX82473651@glorious-lark.rooster465.autos:443?security=tls&sni=glorious-lark.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B0%F0%9F%87%B7%20Xray%20RTT%20813ms
+132. @vpn_free_iranin 🌍 Xray RTT 966ms
+   vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20966ms
 
-133. @vpn_free_iranin 🇰🇷 Xray RTT 821ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERjBcdUQ4M0NcdURERjcgWHJheSBSVFQgODIxbXMiLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9
+133. @vpn_free_iranin 🇮🇳 Xray RTT 975ms
+   vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRVx1RDgzQ1x1RERGMyBYcmF5IFJUVCA5NzVtcyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6IjE1Mi42Ny44LjIwNSJ9
 
-134. @vpn_free_iranin 🇺🇸 Xray RTT 825ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=%2F#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20825ms
+134. @vpn_free_iranin 🇺🇸 Xray RTT 981ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=%2F#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20981ms
 
-135. @vpn_free_iranin 🇰🇷 Xray RTT 833ms
-   trojan://UX82473651@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B0%F0%9F%87%B7%20Xray%20RTT%20833ms
+135. @vpn_free_iranin 🇮🇳 Xray RTT 983ms
+   vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&encryption=none&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=9980e0609b0d3891#%40vpn_free_iranin%20%F0%9F%87%AE%F0%9F%87%B3%20Xray%20RTT%20983ms
 
-136. @vpn_free_iranin 🌍 Xray RTT 846ms
-   vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20846ms
+136. @vpn_free_iranin 🇺🇸 Xray RTT 985ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%20985ms
 
-137. @vpn_free_iranin 🌍 Xray RTT 853ms
-   vless://6c713691-3ca2-4446-ad25-113d1bed6b03@ee10.zazazuza.ru:8443?path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fdghyt.com&fp=chrome&type=ws&allowInsecure=0&sni=fdghyt.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20853ms
+137. @vpn_free_iranin 🇩🇪 Xray RTT 990ms
+   vless://a5ce10af-5e95-4eb3-ab87-bf4f95cb059b@212.100.171.154:443?security=reality&encryption=none&pbk=8u8r2iWMt8Isz2ZNRbn3g4cfldhcePRB-1hxGYLTnSg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=aa6582cf25e243ce#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20990ms
 
-138. @vpn_free_iranin 🇯🇵 Xray RTT 855ms
-   trojan://UX82473651@legible-ram.rooster465.autos:443?security=tls&sni=legible-ram.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%20855ms
+138. @vpn_free_iranin 🌍 Xray RTT 992ms
+   vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGUxMGUzOS00OGJiLTRkY2YtYjNiYS03MWQ3MTEzMjNhNTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDk5Mm1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
-139. @vpn_free_iranin 🌍 Xray RTT 865ms
-   trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20865ms
+139. @vpn_free_iranin 🌍 Xray RTT 1004ms
+   vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&encryption=none&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=f46cd3ea3d1eb72d#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201004ms
 
-140. @vpn_free_iranin 🇨🇦 Xray RTT 900ms
-   vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%20900ms
+140. @vpn_free_iranin 🌍 Xray RTT 1005ms
+   vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201005ms
 
-141. @vpn_free_iranin 🇨🇦 Xray RTT 904ms
-   vmess://eyJhZGQiOiJvcjMuc2ZhY2cudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNiBYcmF5IFJUVCA5MDRtcyIsInNjeSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiJjZG4uc2ZhY2cudWsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+141. @vpn_free_iranin 🌍 Xray RTT 1011ms
+   vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201011ms
 
-142. @vpn_free_iranin 🌍 Xray RTT 904ms
-   vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?security=reality&encryption=none&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=1d86d17709852910#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20904ms
+142. @vpn_free_iranin 🇸🇬 Xray RTT 1023ms
+   trojan://UX82473651@real-cardinal.rooster465.autos:443?security=tls&sni=real-cardinal.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B8%F0%9F%87%AC%20Xray%20RTT%201023ms
 
-143. @vpn_free_iranin 🌍 Xray RTT 912ms
-   vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBvcnQiOiI0NDMiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDkxMm1zIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyNDAuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9
+143. @vpn_free_iranin 🇯🇵 Xray RTT 1028ms
+   trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%201028ms
 
-144. @vpn_free_iranin 🇨🇦 Xray RTT 933ms
-   vmess://eyJhZGQiOiJqcDUuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXIxMS45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2lldXNyZGdmaHRldWlyZ2ZpdXdzP2VkPTI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNiBYcmF5IFJUVCA5MzNtcyIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6InNlcnZlcjExLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidiI6IjIifQ==
+144. @vpn_free_iranin 🌍 Xray RTT 1032ms
+   vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201032ms
 
-145. @vpn_free_iranin 🇩🇪 Xray RTT 942ms
-   trojan://UX82473651@cuddly-sheepdog.rooster465.autos:443?security=tls&sni=cuddly-sheepdog.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%20942ms
+145. @vpn_free_iranin 🌍 Xray RTT 1046ms
+   vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYzMDgiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDEwNDZtcyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-146. @vpn_free_iranin 🌍 Xray RTT 942ms
-   vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20942ms
+146. @vpn_free_iranin 🇨🇦 Xray RTT 1058ms
+   vmess://eyJhZGQiOiJ3d3cuc2hvcGlmeS5jb20iLCJhaWQiOjAsImhvc3QiOiJndWFud2FuZy5hd3Nuby5jb20iLCJpZCI6IjZhODlhMjE1LTIyYmYtNGJkNy05NjQyLWI5NWIyZTA5NTgzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInBvcnQiOiI0NDMiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREU4XHVEODNDXHVEREU2IFhyYXkgUlRUIDEwNThtcyIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSIsInRscyI6InRscyIsInYiOiIyIn0=
 
-147. @vpn_free_iranin 🇸🇬 Xray RTT 946ms
-   trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-molly.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B8%F0%9F%87%AC%20Xray%20RTT%20946ms
+147. @vpn_free_iranin 🌍 Xray RTT 1058ms
+   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@pl-1.ardesnode.ru:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pl-1.ardesnode.ru&sid=9ea74b83f4993ca9#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201058ms
 
-148. @vpn_free_iranin 🌍 Xray RTT 948ms
-   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@213.21.232.26:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&sni=pl-3.ardesnode.ru#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20948ms
+148. @vpn_free_iranin 🇨🇦 Xray RTT 1092ms
+   vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%201092ms
 
-149. @vpn_free_iranin 🌍 Xray RTT 952ms
-   trojan://UX82473651@intense-wildcat.rooster465.autos:443?security=tls&sni=intense-wildcat.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20952ms
+149. @vpn_free_iranin 🇨🇦 Xray RTT 1098ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMTA5OG1zIiwiYWRkIjoieWcxLnlna2trLmRwZG5zLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjJiYTRhNzMtMzEyMy00NzllLWFhOTYtNTk3M2E5ZWNkMGMwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9iMmJhNGE3My0zMTIzLTQ3OWUtYWE5Ni01OTczYTllY2QwYzAtdm0iLCJob3N0Ijoiam1wMS45MDc3MzcueHl6IiwidGxzIjoidGxzIn0=
 
-150. @vpn_free_iranin 🇨🇦 Xray RTT 971ms
-   vmess://eyJhZGQiOiJjZG4uc2ZhY2cudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBjcyI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNiBYcmF5IFJUVCA5NzFtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvcjMuc2ZhY2cudWsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+150. @vpn_free_iranin 🌍 Xray RTT 1099ms
+   vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201099ms
 
-151. @vpn_free_iranin 🌍 Xray RTT 973ms
-   vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&security=reality&sid=52c723e0fad49689&sni=www.nvidia.com&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%20973ms
+151. @vpn_free_iranin 🇨🇦 Xray RTT 1103ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMTEwM21zIiwiYWRkIjoieWcxLnlna2trLmRwZG5zLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6ImIyYmE0YTczLTMxMjMtNDc5ZS1hYTk2LTU5NzNhOWVjZDBjMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImptcDEuOTA3NzM3Lnh5eiIsInBhdGgiOiIvYjJiYTRhNzMtMzEyMy00NzllLWFhOTYtNTk3M2E5ZWNkMGMwLXZtIiwidGxzIjoidGxzIiwic25pIjoiam1wMS45MDc3MzcueHl6IiwidGVzdF9uYW1lIjoiMzMifQ==
 
-152. @vpn_free_iranin 🇸🇬 Xray RTT 984ms
-   vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6MTgwMDAsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERjhcdUQ4M0NcdURERUMgWHJheSBSVFQgOTg0bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJuYW1lIjoiU0cgXHVEODNDXHVEREY4XHVEODNDXHVEREVDIHwgQFJheWRpa2FseCB8IDY4OTY1OSJ9
+152. @vpn_free_iranin 🇩🇪 Xray RTT 1105ms
+   trojan://humanity@185.255.179.166:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%201105ms
 
-153. @vpn_free_iranin 🇮🇳 Xray RTT 999ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUVcdUQ4M0NcdURERjMgWHJheSBSVFQgOTk5bXMiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0IjoiODAiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIn0=
+153. @vpn_free_iranin 🇸🇬 Xray RTT 1109ms
+   trojan://UX82473651@brave-tomcat.rooster465.autos:443?security=tls&sni=brave-tomcat.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B8%F0%9F%87%AC%20Xray%20RTT%201109ms
 
-154. @vpn_free_iranin 🇳🇱 Xray RTT 1013ms
-   vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&host=%2F%3FTelegram---bored_vpn&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%201013ms
+154. @vpn_free_iranin 🌍 Xray RTT 1112ms
+   trojan://3ixF51QWmFNmKOO_utPxVL-7gYYUb6HC@b1.3danimation3.com:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201112ms
 
-155. @vpn_free_iranin 🇸🇬 Xray RTT 1025ms
-   trojan://UX82473651@inspired-hound.rooster465.autos:443?security=tls&sni=inspired-hound.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B8%F0%9F%87%AC%20Xray%20RTT%201025ms
+155. @vpn_free_iranin 🌍 Xray RTT 1113ms
+   trojan://UX82473651@3.34.131.153:443?security=tls&sni=pretty-rat.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201113ms
 
-156. @vpn_free_iranin 🌍 Xray RTT 1037ms
-   vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201037ms
+156. @vpn_free_iranin 🌍 Xray RTT 1118ms
+   trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201118ms
 
-157. @vpn_free_iranin 🇮🇳 Xray RTT 1040ms
-   vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUVcdUQ4M0NcdURERjMgWHJheSBSVFQgMTA0MG1zIiwic2N5IjoiYXV0byIsInNuaSI6IjE1Mi42Ny44LjIwNSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+157. @vpn_free_iranin 🌍 Xray RTT 1136ms
+   vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201136ms
 
-158. @vpn_free_iranin 🇮🇳 Xray RTT 1046ms
-   vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRVx1RDgzQ1x1RERGMyBYcmF5IFJUVCAxMDQ2bXMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiIxNTIuNjcuOC4yMDUifQ==
+158. @vpn_free_iranin 🌍 Xray RTT 1140ms
+   vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201140ms
 
-159. @vpn_free_iranin 🇭🇰 Xray RTT 1049ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDEwNDltcyIsImFkZCI6Imxjdjh2OWw3b3lhbXh4Znoudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiIsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IDI2RkZDQyJ9
+159. @vpn_free_iranin 🌍 Xray RTT 1169ms
+   vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201169ms
 
-160. @vpn_free_iranin 🇨🇦 Xray RTT 1051ms
-   vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@188.114.97.6:443?path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%201051ms
+160. @vpn_free_iranin 🇭🇰 Xray RTT 1179ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDExNzltcyIsImFkZCI6IjkzdWNybjRpMHBmZnVhYmsudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgNTQ4MEM0In0=
 
-161. @vpn_free_iranin 🇭🇰 Xray RTT 1054ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDEwNTRtcyIsImFkZCI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoicVRLRFI4alhFM3dFRnhKTS52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6InFUS0RSOGpYRTN3RUZ4Sk0udi4zZG5zLnZpcCIsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IEQ5MjczMCJ9
+161. @vpn_free_iranin 🌍 Xray RTT 1183ms
+   trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201183ms
 
-162. @vpn_free_iranin 🇭🇰 Xray RTT 1055ms
-   vmess://eyJhZGQiOiI0Ny44My4yMDcuMTQ4IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiVkFINFVSZFpMM2pEWDVyMi52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IDQyQzU2OCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCAxMDU1bXMiLCJzY3kiOiJhdXRvIiwic25pIjpudWxsLCJ0bHMiOiJ0bHMiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
+162. @vpn_free_iranin 🌍 Xray RTT 1186ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDExODZtcyIsImFkZCI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6InFUS0RSOGpYRTN3RUZ4Sk0udi4zZG5zLnZpcCIsImFscG4iOm51bGwsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJmcCI6bnVsbCwibmFtZSI6IkhLIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCB8IEBSYXlkaWthbHggfCA3QzQwNTIifQ==
 
-163. @vpn_free_iranin 🌍 Xray RTT 1057ms
-   vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201057ms
+163. @vpn_free_iranin 🌍 Xray RTT 1188ms
+   vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?authority=&encryption=none&fp=chrome&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&security=reality&serviceName=grpc_common2&sid=df&sni=perf-prod.samsung.com&spx=%2F3f9d322afd1602c&type=grpc#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201188ms
 
-164. @vpn_free_iranin 🇭🇰 Xray RTT 1058ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMTA1OG1zIiwiYWRkIjoiOC4yMTcuMTMuMTAzIiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJob3N0IjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyJ9
+164. @vpn_free_iranin 🇨🇦 Xray RTT 1197ms
+   vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMTE5N21zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
 
-165. @vpn_free_iranin 🇳🇱 Xray RTT 1069ms
-   vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%201069ms
+165. @vpn_free_iranin 🌍 Xray RTT 1202ms
+   vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201202ms
 
-166. @vpn_free_iranin 🇯🇵 Xray RTT 1099ms
-   trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%AF%F0%9F%87%B5%20Xray%20RTT%201099ms
+166. @vpn_free_iranin 🇭🇰 Xray RTT 1208ms
+   vmess://eyJhZGQiOiI4LjIxOC4xOTUuNjEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiJFWDFvR3Q3M056UFFLQWMyLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgNTBDRDZFIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDEyMDhtcyIsInNjeSI6ImF1dG8iLCJzbmkiOm51bGwsInRscyI6InRscyIsInR5cGUiOm51bGwsInYiOm51bGx9
 
-167. @vpn_free_iranin 🇰🇷 Xray RTT 1101ms
-   trojan://UX82473651@3.34.131.153:443?security=tls&sni=pretty-rat.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B0%F0%9F%87%B7%20Xray%20RTT%201101ms
+167. @vpn_free_iranin 🌍 Xray RTT 1215ms
+   vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1REYwRCBYcmF5IFJUVCAxMjE1bXMifQ==
 
-168. @vpn_free_iranin 🇨🇦 Xray RTT 1105ms
-   vmess://eyJhZGQiOiJjZG4uc2ZhY2cudWsiLCJhaWQiOjAsImhvc3QiOiJvcjMuc2ZhY2cudWsiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcjMiLCJwb3J0IjoyMDgzLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREU4XHVEODNDXHVEREU2IFhyYXkgUlRUIDExMDVtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+168. @vpn_free_iranin 🌍 Xray RTT 1227ms
+   vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBvcnQiOiI0NDMiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDEyMjdtcyIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidiI6IjIifQ==
 
-169. @vpn_free_iranin 🇭🇰 Xray RTT 1108ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDExMDhtcyIsImFkZCI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiIsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IDJCNUVDMCJ9
+169. @vpn_free_iranin 🌍 Xray RTT 1228ms
+   trojan://3ixF51QWmFNmKOO_utPxVL-7gYYUb6HC@b1.3danimation3.com:8443?security=tls&sni=b1.3danimation3.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201228ms
 
-170. @vpn_free_iranin 🇭🇰 Xray RTT 1123ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDExMjNtcyIsImFkZCI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IlZBSDRVUmRaTDNqRFg1cjIudi4zZG5zLnZpcCIsImFscG4iOm51bGwsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IDBGNjIwRiJ9
+170. @vpn_free_iranin 🇳🇱 Xray RTT 1298ms
+   vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%201298ms
 
-171. @vpn_free_iranin 🌍 Xray RTT 1128ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201128ms
+171. @vpn_free_iranin 🌍 Xray RTT 1314ms
+   vless://9977ba41-b6aa-4033-9492-2f6abfcade31@206.223.249.90:33891?security=reality&encryption=none&pbk=fj5f0rWTOAgd2gqCCWgag3oAGwb6MCef3OFNdnQLWW8&headerType=none&fp=chrome&spx=%2Fapi&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=f5bc6788#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201314ms
 
-172. @vpn_free_iranin 🇳🇱 Xray RTT 1128ms
-   vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=217.69.167.125&fp=random&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&sid=353fdd95&type=tcp&headerType=none&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%201128ms
+172. @vpn_free_iranin 🌍 Xray RTT 1324ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMTMyNG1zIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJzbmkiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJhbGxvd0luc2VjdXJlIjoiMSIsImluc2VjdXJlIjoiMSIsInNjeSI6ImF1dG8iLCJob3N0IjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 
-173. @vpn_free_iranin 🇦🇪 Xray RTT 1130ms
-   vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#%40vpn_free_iranin%20%F0%9F%87%A6%F0%9F%87%AA%20Xray%20RTT%201130ms
+173. @vpn_free_iranin 🇬🇧 Xray RTT 1344ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVDXHVEODNDXHVEREU3IFhyYXkgUlRUIDEzNDRtcyIsImFkZCI6IjU3LjEyOS4xMzIuMjIzIiwicG9ydCI6ODAsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJ2aWJlci5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiR0IgXHVEODNDXHVEREVDXHVEODNDXHVEREU3IHwgQFJheWRpa2FseCB8IDM2MDIyNyJ9
 
-174. @vpn_free_iranin 🇳🇱 Xray RTT 1144ms
-   vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%201144ms
+174. @vpn_free_iranin 🇨🇦 Xray RTT 1357ms
+   trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%201357ms
 
-175. @vpn_free_iranin 🌍 Xray RTT 1152ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMTE1Mm1zIiwiYWRkIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicG9ydCI6IjgwIiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
+175. @vpn_free_iranin 🌍 Xray RTT 1383ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=yahoo.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201383ms
 
-176. @vpn_free_iranin 🌍 Xray RTT 1162ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMTE2Mm1zIiwiYWRkIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii92bWVzcy8ifQ==
+176. @vpn_free_iranin 🌍 Xray RTT 1411ms
+   vmess://eyJ2IjoiMiIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjM4LjEwNy4yMzQuNTciLCJwYXRoIjoiL3ZtZXNzLyIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMTQxMW1zIn0=
 
-177. @vpn_free_iranin 🇸🇬 Xray RTT 1187ms
-   vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#%40vpn_free_iranin%20%F0%9F%87%B8%F0%9F%87%AC%20Xray%20RTT%201187ms
+177. @vpn_free_iranin 🇨🇦 Xray RTT 1415ms
+   vmess://eyJhZGQiOiJoazIuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXIxNS45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FzaXZld3JpdHRlbj9lZD0yNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMTQxNW1zIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMTUuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9
 
-178. @vpn_free_iranin 🇰🇷 Xray RTT 1189ms
-   trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B0%F0%9F%87%B7%20Xray%20RTT%201189ms
+178. @vpn_free_iranin 🇭🇰 Xray RTT 1424ms
+   vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5wdWJnbW9iaWxlLmNvbSIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMTQyNG1zIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5wdWJnbW9iaWxlLmNvbSIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
 
-179. @vpn_free_iranin 🇸🇬 Xray RTT 1195ms
-   trojan://UX82473651@brave-tomcat.rooster465.autos:443?security=tls&sni=brave-tomcat.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B8%F0%9F%87%AC%20Xray%20RTT%201195ms
+179. @vpn_free_iranin 🌍 Xray RTT 1427ms
+   vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYzMjIiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDE0MjdtcyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-180. @vpn_free_iranin 🌍 Xray RTT 1202ms
-   vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?encryption=none&security=reality&sni=md2.univesalsrv.com&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&type=grpc&authority=%2Ft.me%2FV2rayBaaz&serviceName=hub.v1.SyncService&mode=gun#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201202ms
+180. @vpn_free_iranin 🇭🇰 Xray RTT 1435ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDE0MzVtcyIsImFkZCI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgMzkxMDA2In0=
 
-181. @vpn_free_iranin 🇫🇷 Xray RTT 1221ms
-   vless://40fbeade-2b35-55e2-8e72-39893b5917ea@tyxyrytyro-51255165170-direct.araghchy.com:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=tyxyrytyro-51255165170-direct.araghchy.com&type=tcp#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%201221ms
+181. @vpn_free_iranin 🇭🇰 Xray RTT 1458ms
+   vmess://eyJhZGQiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCAxNDU4bXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-182. @vpn_free_iranin 🇨🇦 Xray RTT 1225ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMTIyNW1zIiwiYWRkIjoieWcxLnlna2trLmRwZG5zLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6ImIyYmE0YTczLTMxMjMtNDc5ZS1hYTk2LTU5NzNhOWVjZDBjMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImptcDEuOTA3NzM3Lnh5eiIsInBhdGgiOiIvYjJiYTRhNzMtMzEyMy00NzllLWFhOTYtNTk3M2E5ZWNkMGMwLXZtIiwidGxzIjoidGxzIiwic25pIjoiam1wMS45MDc3MzcueHl6IiwidGVzdF9uYW1lIjoiMzMifQ==
+182. @vpn_free_iranin 🇯🇵 Xray RTT 1525ms
+   vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoianAwMS5hMGEueHl6IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0Ijo4MCwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRlx1RDgzQ1x1RERGNSBYcmF5IFJUVCAxNTI1bXMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-183. @vpn_free_iranin 🇨🇦 Xray RTT 1232ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMTIzMm1zIiwiYWRkIjoieWcxLnlna2trLmRwZG5zLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6ImIyYmE0YTczLTMxMjMtNDc5ZS1hYTk2LTU5NzNhOWVjZDBjMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoiam1wMS45MDc3MzcueHl6IiwicGF0aCI6Ii9iMmJhNGE3My0zMTIzLTQ3OWUtYWE5Ni01OTczYTllY2QwYzAtdm0iLCJob3N0Ijoiam1wMS45MDc3MzcueHl6In0=
+183. @vpn_free_iranin 🌍 Xray RTT 1545ms
+   vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYzMTQiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDE1NDVtcyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-184. @vpn_free_iranin 🇺🇸 Xray RTT 1241ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%201241ms
+184. @vpn_free_iranin 🌍 Xray RTT 1550ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDE1NTBtcyIsImFkZCI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IkhLIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCB8IEBSYXlkaWthbHggfCBDMjU2MjUifQ==
 
-185. @vpn_free_iranin 🇸🇬 Xray RTT 1262ms
-   trojan://UX82473651@real-cardinal.rooster465.autos:443?security=tls&sni=real-cardinal.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B8%F0%9F%87%AC%20Xray%20RTT%201262ms
+185. @vpn_free_iranin 🇮🇳 Xray RTT 1552ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUVcdUQ4M0NcdURERjMgWHJheSBSVFQgMTU1Mm1zIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsInNuaSI6IjZKRHZBcmF6Z1UzcVFSNlEudi4zZG5zLnZpcCIsImZwIjoicmFuZG9tIiwicGF0aCI6Ii93cy12bWVzcyIsImhvc3QiOiIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiJ9
 
-186. @vpn_free_iranin 🇭🇰 Xray RTT 1276ms
-   vmess://eyJhZGQiOiI0Ny43Ni40NC4zMiIsImFpZCI6IjAiLCJob3N0IjoiOTN1Y3JuNGkwUGZmVUFiay52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCAxMjc2bXMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+186. @vpn_free_iranin 🇺🇸 Xray RTT 1625ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%201625ms
 
-187. @vpn_free_iranin 🇭🇰 Xray RTT 1279ms
-   vmess://eyJhZGQiOiI0Ny4yNDMuMTk0LjEyNSIsImFpZCI6IjAiLCJob3N0IjoibnljcWcxOXprd2FjcG0xYi52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCAxMjc5bXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+187. @vpn_free_iranin 🇸🇬 Xray RTT 1665ms
+   vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#%40vpn_free_iranin%20%F0%9F%87%B8%F0%9F%87%AC%20Xray%20RTT%201665ms
 
-188. @vpn_free_iranin 🇺🇸 Xray RTT 1286ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%201286ms
+188. @vpn_free_iranin 🇺🇸 Xray RTT 1788ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%201788ms
 
-189. @vpn_free_iranin 🌍 Xray RTT 1339ms
-   vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201339ms
+189. @vpn_free_iranin 🌍 Xray RTT 1794ms
+   vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?security=reality&encryption=none&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=est.nztvpn.com&sid=0da7e14db353e7d0#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201794ms
 
-190. @vpn_free_iranin 🌍 Xray RTT 1346ms
-   trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201346ms
+190. @vpn_free_iranin 🇺🇸 Xray RTT 1818ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%201818ms
 
-191. @vpn_free_iranin 🇺🇸 Xray RTT 1349ms
-   trojan://UX82473651@alert-titmouse.rooster465.autos:443?security=tls&sni=alert-titmouse.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%201349ms
+191. @vpn_free_iranin 🌍 Xray RTT 1834ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201834ms
 
-192. @vpn_free_iranin 🇨🇦 Xray RTT 1415ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMTQxNW1zIiwiYWRkIjoieWcxLnlna2trLmRwZG5zLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjJiYTRhNzMtMzEyMy00NzllLWFhOTYtNTk3M2E5ZWNkMGMwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9iMmJhNGE3My0zMTIzLTQ3OWUtYWE5Ni01OTczYTllY2QwYzAtdm0iLCJob3N0Ijoiam1wMS45MDc3MzcueHl6IiwidGxzIjoidGxzIn0=
+192. @vpn_free_iranin 🇺🇸 Xray RTT 1838ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%201838ms
 
-193. @vpn_free_iranin 🇨🇦 Xray RTT 1416ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMTQxNm1zIiwiYWRkIjoiY2RuLnNmYWNnLnVrIiwicG9ydCI6MjA4MywiaWQiOiJhYzI1MTIzNy01NzZmLTQwYzgtYTU0My01NTQ5NjBjOTU4YjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoib3IzLnNmYWNnLnVrIiwicGF0aCI6Ii9vcjMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiQ0EgXHVEODNDXHVEREU4XHVEODNDXHVEREU2IHwgQFJheWRpa2FseCB8IDIyRjgwQyJ9
+193. @vpn_free_iranin 🌍 Xray RTT 1869ms
+   vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.pythonsetupbib.online&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=bdf5852d1423e694&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201869ms
 
-194. @vpn_free_iranin 🇹🇼 Xray RTT 1451ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERjlcdUQ4M0NcdURERkMgWHJheSBSVFQgMTQ1MW1zIiwiYWRkIjoiNjU0MTY4NDE2MzU1NDQxLmQ2ZjU0aGQxai5jYyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZWNkYzMwM2QtYmNiZi00MTI5LWJjMDItZGQ2NzcwM2Y3MDgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiNjU0MTY4NDE2MzU1NDQxLmQ2ZjU0aGQxai5jYyIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+194. @vpn_free_iranin 🌍 Xray RTT 1925ms
+   vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?security=reality&encryption=none&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.pythonsetupbib.online&sid=bdf5852d1423e694#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201925ms
 
-195. @vpn_free_iranin 🇨🇦 Xray RTT 1482ms
-   vmess://eyJhZGQiOiJoazIuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXIxNS45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FzaXZld3JpdHRlbj9lZD0yNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERThcdUQ4M0NcdURERTYgWHJheSBSVFQgMTQ4Mm1zIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMTUuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9
+195. @vpn_free_iranin 🌍 Xray RTT 1988ms
+   vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@server.slavkiti.monster:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=8325360e8bd2#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201988ms
 
-196. @vpn_free_iranin 🇭🇰 Xray RTT 1511ms
-   vmess://eyJ2IjoyLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDE1MTFtcyIsImFkZCI6IjE1Ni4yNDUuMjMyLjIzOSIsInBvcnQiOjM1MDQzLCJpZCI6ImIxNWU0ODFkLTE3ZTQtNDFhOC04NGMyLTIzZDRmMDUxNGQ5YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE1Ni4yNDUuMjMyLjIzOSIsInBhdGgiOiIvIiwidGxzIjpmYWxzZSwic25pIjoiIn0=
+196. @vpn_free_iranin 🌍 Xray RTT 2094ms
+   trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%202094ms
 
-197. @vpn_free_iranin 🇭🇰 Xray RTT 1532ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMTUzMm1zIiwiYWRkIjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJpMnBzbTNrbm9mNXFqaml4LnYuM2Rucy52aXAiLCJob3N0IjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyJ9
+197. @vpn_free_iranin 🌍 Xray RTT 2178ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDIxNzhtcyIsImFkZCI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoicVRLRFI4alhFM3dFRnhKTS52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6InFUS0RSOGpYRTN3RUZ4Sk0udi4zZG5zLnZpcCIsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IEQ5MjczMCJ9
 
-198. @vpn_free_iranin 🇺🇸 Xray RTT 1558ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%201558ms
+198. @vpn_free_iranin 🌍 Xray RTT 2185ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMjE4NW1zIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6InFUS0RSOGpYRTN3RUZ4Sk0udi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 
-199. @vpn_free_iranin 🇩🇪 Xray RTT 1591ms
-   trojan://humanity@185.255.179.166:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%201591ms
+199. @vpn_free_iranin 🌍 Xray RTT 2223ms
+   vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=2a80364e93d9#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%202223ms
 
-200. @vpn_free_iranin 🇭🇰 Xray RTT 1596ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDE1OTZtcyIsImFkZCI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgMzkxMDA2In0=
+200. @vpn_free_iranin 🇩🇪 Xray RTT 2272ms
+   vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%202272ms
 
-201. @vpn_free_iranin 🇩🇪 Xray RTT 1628ms
-   trojan://humanity@185.220.100.168:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%201628ms
+201. @vpn_free_iranin 🇺🇸 Xray RTT 2339ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%202339ms
 
-202. @vpn_free_iranin 🌍 Xray RTT 1672ms
-   vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=chrome&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201672ms
+202. @vpn_free_iranin 🇭🇰 Xray RTT 2377ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDIzNzdtcyIsImFkZCI6ImV4MW9ndDczbnpwcWthYzIudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiZXgxb2d0NzNuenBxa2FjMi52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgRTI2NDREIn0=
 
-203. @vpn_free_iranin 🇭🇰 Xray RTT 1685ms
-   vmess://eyJhZGQiOiI0Ny4yNDMuNjUuMjQzIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoibGN2OHY5bDdPeWFteHhmWi52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgRDc1NUYwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDE2ODVtcyIsInNjeSI6ImF1dG8iLCJzbmkiOm51bGwsInRscyI6InRscyIsInR5cGUiOm51bGwsInYiOm51bGx9
+203. @vpn_free_iranin 🌍 Xray RTT 2448ms
+   vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%202448ms
 
-204. @vpn_free_iranin 🌍 Xray RTT 1688ms
-   vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?type=tcp&encryption=none&security=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201688ms
+204. @vpn_free_iranin 🇭🇰 Xray RTT 2453ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMjQ1M21zIiwiYWRkIjoiMmI5aHd5OG9jeDdxNzRubS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiMmI5aHdZOG9DeDdRNzROTS52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 
-205. @vpn_free_iranin 🇷🇺 Xray RTT 1741ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERjdcdUQ4M0NcdURERkEgWHJheSBSVFQgMTc0MW1zIiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTItMTE0Lm1pcnJhLm5vdyIsInBvcnQiOjQ0MywiaWQiOiI4ZmZhNDFkNC1lNmI1LTRhZjUtYThhOS02OWUyNmJlYzc1ZjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi0xMTQubWlycmEubm93Iiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItMTE0Lm1pcnJhLm5vdyIsImZwIjoiZmlyZWZveCIsImFscG4iOiJoMiIsInNlcnZlckRlc2NyaXB0aW9uIjoi0JDQutGC0LjQstC90LAg0LrQvtC90YTQuNCz0YPRgNCw0YbQuNGPINC00LvRjyBMVEUifQ==
+205. @vpn_free_iranin 🇺🇸 Xray RTT 2501ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%202501ms
 
-206. @vpn_free_iranin 🇸🇬 Xray RTT 1749ms
-   trojan://UX82473651@pet-antelope.rooster465.autos:443?security=tls&sni=pet-antelope.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B8%F0%9F%87%AC%20Xray%20RTT%201749ms
+206. @vpn_free_iranin 🇯🇵 Xray RTT 2516ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUZcdUQ4M0NcdURERjUgWHJheSBSVFQgMjUxNm1zIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDEuYTBhLnh5eiJ9
 
-207. @vpn_free_iranin 🇭🇰 Xray RTT 1752ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDE3NTJtcyIsImFkZCI6ImV4MW9ndDczbnpwcWthYzIudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiRVgxb0d0NzNOelBRS0FjMi52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IkVYMW9HdDczTnpQUUtBYzIudi4zZG5zLnZpcCIsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IEQ1M0RERCJ9
+207. @vpn_free_iranin 🇭🇰 Xray RTT 2680ms
+   vmess://eyJ2IjpudWxsLCJhZGQiOiJleDFvZ3Q3M256cHFrYWMyLnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6ImV4MW9ndDczbnpwcWthYzIudi4zZG5zLnZpcCIsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IEQ4MzY5MiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMjY4MG1zIn0=
 
-208. @vpn_free_iranin 🌍 Xray RTT 1764ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDE3NjRtcyIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6ODAsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJKUCBcdUQ4M0NcdURERUZcdUQ4M0NcdURERjUgfCBAUmF5ZGlrYWx4IHwgN0I0RUQ4In0=
+208. @vpn_free_iranin 🌍 Xray RTT 2715ms
+   vmess://eyJhZGQiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJxVEtEUjhqWEUzd0VGeEpNLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1REYwRCBYcmF5IFJUVCAyNzE1bXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAifQ==
 
-209. @vpn_free_iranin 🇫🇷 Xray RTT 1766ms
-   vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@31.76.68.245:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=INbgA5nXpjZ2P1f6lY7sMBlDM3ZMV8RX3cw-RRGM0mM&sid=f22e97cfd4d9&sni=fra01.deflink.net&encryption=none#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%201766ms
+209. @vpn_free_iranin 🇺🇸 Xray RTT 2732ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%202732ms
 
-210. @vpn_free_iranin 🌍 Xray RTT 1831ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMTgzMW1zIiwiYWRkIjoiMzguMTA3LjIzNC41NyIsInBvcnQiOiI4MCIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
+210. @vpn_free_iranin 🇺🇸 Xray RTT 2744ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM--i10VPN&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%202744ms
 
-211. @vpn_free_iranin 🇺🇸 Xray RTT 1875ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.224:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%201875ms
+211. @vpn_free_iranin 🇭🇰 Xray RTT 2746ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDI3NDZtcyIsImFkZCI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiIsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IDJCNUVDMCJ9
 
-212. @vpn_free_iranin 🌍 Xray RTT 1885ms
-   vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@server.slavkiti.monster:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=8325360e8bd2#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201885ms
+212. @vpn_free_iranin 🇭🇰 Xray RTT 2786ms
+   vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImIxNWU0ODFkLTE3ZTQtNDFhOC04NGMyLTIzZDRmMDUxNGQ5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjozNTA0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCAyNzg2bXMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-213. @vpn_free_iranin 🇺🇸 Xray RTT 1906ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%201906ms
+213. @vpn_free_iranin 🇺🇸 Xray RTT 2849ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.224:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%202849ms
 
-214. @vpn_free_iranin 🇭🇰 Xray RTT 1908ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMTkwOG1zIiwiYWRkIjoiNDcuMjQzLjE5NC4xMjUiLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Im55Y3FnMTl6a3dhY3BtMWIudi4zZG5zLnZpcCIsImhvc3QiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIn0=
+214. @vpn_free_iranin 🇷🇺 Xray RTT 2863ms
+   vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839#%40vpn_free_iranin%20%F0%9F%87%B7%F0%9F%87%BA%20Xray%20RTT%202863ms
 
-215. @vpn_free_iranin 🌍 Xray RTT 1958ms
-   vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=2a80364e93d9#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%201958ms
+215. @vpn_free_iranin 🇮🇳 Xray RTT 2942ms
+   vmess://eyJhZGQiOiIyMC4yMzUuMjIwLjE4OSIsImFpZCI6IjAiLCJhbGxvd0luc2VjdXJlIjoiMSIsImFscG4iOiIiLCJmcCI6InJhbmRvbSIsImhvc3QiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVFXHVEODNDXHVEREYzIFhyYXkgUlRUIDI5NDJtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-216. @vpn_free_iranin 🇭🇰 Xray RTT 2145ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDIxNDVtcyIsImFkZCI6ImV4MW9ndDczbnpwcWthYzIudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJleDFvZ3Q3M256cHFrYWMyLnYuM2Rucy52aXAiLCJmcCI6bnVsbCwibmFtZSI6IkhLIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCB8IEBSYXlkaWthbHggfCA1ODVDNjgifQ==
+216. @vpn_free_iranin 🇷🇺 Xray RTT 3005ms
+   vless://c5b5ef33-819e-4972-9a5a-4ad91f38507f@185.229.9.234:443?security=reality&encryption=none&pbk=fsyvGBPzzwpnSA0UnJML_cDqviNSEdj9zktpC1EeFhY&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=743541f932fa3959#%40vpn_free_iranin%20%F0%9F%87%B7%F0%9F%87%BA%20Xray%20RTT%203005ms
 
-217. @vpn_free_iranin 🇰🇷 Xray RTT 2147ms
-   trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%B0%F0%9F%87%B7%20Xray%20RTT%202147ms
+217. @vpn_free_iranin 🌍 Xray RTT 3081ms
+   vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?type=tcp&encryption=none&security=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%203081ms
 
-218. @vpn_free_iranin 🌍 Xray RTT 2228ms
-   vless://185e2bb3-2934-48d0-bbd5-dd20d16e83ee@93.89.220.37:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lwKaUQ81wJUJRsqAPsfTPj5V_f9N50UYEwzRI_nuq2g&security=reality&sid=e88cb983f3c97528&sni=ibm.com&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%202228ms
+218. @vpn_free_iranin 🇭🇰 Xray RTT 3084ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMzA4NG1zIiwiYWRkIjoiNDcuMjQzLjE5NC4xMjUiLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Im55Y3FnMTl6a3dhY3BtMWIudi4zZG5zLnZpcCIsImhvc3QiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIn0=
 
-219. @vpn_free_iranin 🇭🇰 Xray RTT 2247ms
-   vmess://eyJhZGQiOiJ2YWg0dXJkemwzamR4NXIyLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMjI0N21zIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+219. @vpn_free_iranin 🇭🇰 Xray RTT 3091ms
+   vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJiOWRlMWJjOS1iYWE3LTQxYWMtODZmNy1jY2Q1OTY5NWNiMjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSIsInBvcnQiOiIyMzAyNiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMzA5MW1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-220. @vpn_free_iranin 🇷🇺 Xray RTT 2250ms
-   vless://c5b5ef33-819e-4972-9a5a-4ad91f38507f@185.229.9.234:443?security=reality&encryption=none&pbk=fsyvGBPzzwpnSA0UnJML_cDqviNSEdj9zktpC1EeFhY&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=743541f932fa3959#%40vpn_free_iranin%20%F0%9F%87%B7%F0%9F%87%BA%20Xray%20RTT%202250ms
+220. @vpn_free_iranin 🌍 Xray RTT 3115ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%203115ms
 
-221. @vpn_free_iranin 🇭🇰 Xray RTT 2267ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDIyNjdtcyIsImFkZCI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6InFUS0RSOGpYRTN3RUZ4Sk0udi4zZG5zLnZpcCIsImFscG4iOm51bGwsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJmcCI6bnVsbCwibmFtZSI6IkhLIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCB8IEBSYXlkaWthbHggfCA3QzQwNTIifQ==
+221. @vpn_free_iranin 🌍 Xray RTT 3278ms
+   vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&security=reality&sid=0da7e14db353e7d0&sni=litv.nztvpn.com&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%203278ms
 
-222. @vpn_free_iranin 🇭🇰 Xray RTT 2269ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMjI2OW1zIiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjoiMzY3MDMiLCJpZCI6IjQ1YjgzNTE5LTljNGYtNDA1Mi1hMTFiLTAyZTAxN2I2MzZkNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkhLOSJ9
+222. @vpn_free_iranin 🇭🇰 Xray RTT 3285ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMzI4NW1zIiwiYWRkIjoiNDcuMjQzLjE1My4xNTMiLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsImhvc3QiOiJpMnBzbTNrbm9mNXFqaml4LnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIn0=
 
-223. @vpn_free_iranin 🇭🇰 Xray RTT 2345ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMjM0NW1zIiwiYWRkIjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+223. @vpn_free_iranin 🌍 Xray RTT 3512ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMzUxMm1zIiwiYWRkIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicG9ydCI6IjgwIiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
 
-224. @vpn_free_iranin 🇭🇰 Xray RTT 2421ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMjQyMW1zIiwiYWRkIjoidmFoNHVyZHpsM2pkeDVyMi52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMTEifQ==
+224. @vpn_free_iranin 🇭🇰 Xray RTT 3560ms
+   vmess://eyJhZGQiOiI0Ny4yNDMuNjUuMjQzIiwiYWlkIjowLCJob3N0IjoibGN2OHY5bDdveWFteHhmei52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0Ijo0NDMsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMzU2MG1zIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoibGN2OHY5bDdveWFteHhmei52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 
-225. @vpn_free_iranin 🌍 Xray RTT 2443ms
-   trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?security=tls&sni=id1.nathaya.web.id&type=ws&path=/trojan&Host=id1.nathaya.web.id#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%202443ms
+225. @vpn_free_iranin 🇳🇱 Xray RTT 3594ms
+   vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@2.26.231.218:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%40vpn_free_iranin%20%F0%9F%87%B3%F0%9F%87%B1%20Xray%20RTT%203594ms
 
-226. @vpn_free_iranin 🌍 Xray RTT 2494ms
-   vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.pythonsetupbib.online&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=bdf5852d1423e694&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%202494ms
+226. @vpn_free_iranin 🌍 Xray RTT 3621ms
+   trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%203621ms
 
-227. @vpn_free_iranin 🇭🇰 Xray RTT 2505ms
-   vmess://eyJhZGQiOiI0Ny4yNDMuMTUzLjE1MyIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6IiIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IERFNzNFQyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCAyNTA1bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
+227. @vpn_free_iranin 🇩🇪 Xray RTT 3679ms
+   vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@chart.videofriend.site:443?mode=gun&security=reality&encryption=none&pbk=kcXhnfHyVJyjNjIdoLUpM17d2TNrxviP4qGSLmjvLB4&fp=random&type=grpc&serviceName=grpc-tunnel&sni=chart.videofriend.site#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%203679ms
 
-228. @vpn_free_iranin 🌍 Xray RTT 2537ms
-   vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGUxMGUzOS00OGJiLTRkY2YtYjNiYS03MWQ3MTEzMjNhNTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDI1MzdtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+228. @vpn_free_iranin 🌍 Xray RTT 3699ms
+   vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de2.srv.vbuste.ru:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%203699ms
 
-229. @vpn_free_iranin 🌍 Xray RTT 2737ms
-   vless://1c794e75-bcd4-4a65-9f69-ed0a10f33d60@144.31.101.196:33891?security=reality&encryption=none&pbk=HXXIkFRPeRpluXJ7SOoUGf9EOq4Lw-oJpvg1W0UPbEw&headerType=none&fp=chrome&spx=%2Fhealth&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=5bd7b68ca4c04443#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%202737ms
+229. @vpn_free_iranin 🌍 Xray RTT 3784ms
+   vless://1c794e75-bcd4-4a65-9f69-ed0a10f33d60@144.31.101.196:33891?security=reality&encryption=none&pbk=HXXIkFRPeRpluXJ7SOoUGf9EOq4Lw-oJpvg1W0UPbEw&headerType=none&fp=chrome&spx=%2Fhealth&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=5bd7b68ca4c04443#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%203784ms
 
-230. @vpn_free_iranin 🇭🇰 Xray RTT 2748ms
-   vmess://eyJhZGQiOiI0Ny4yNDMuNjUuMjQzIiwiYWlkIjowLCJob3N0IjoibGN2OHY5bDdveWFteHhmei52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0Ijo0NDMsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMjc0OG1zIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoibGN2OHY5bDdveWFteHhmei52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+230. @vpn_free_iranin 🇺🇸 Xray RTT 3806ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%203806ms
 
-231. @vpn_free_iranin 🌍 Xray RTT 2798ms
-   vless://fc87e0d6-0f6a-423a-828e-1fed7e7ef29c@u6.luxcloud.space:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u6.luxcloud.space#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%202798ms
+231. @vpn_free_iranin 🇹🇼 Xray RTT 4023ms
+   vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&host=JOIN_BEDE_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#%40vpn_free_iranin%20%F0%9F%87%B9%F0%9F%87%BC%20Xray%20RTT%204023ms
 
-232. @vpn_free_iranin 🇭🇰 Xray RTT 3027ms
-   vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5wdWJnbW9iaWxlLmNvbSIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMzAyN21zIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5wdWJnbW9iaWxlLmNvbSIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
+232. @vpn_free_iranin 🇭🇰 Xray RTT 4047ms
+   vmess://eyJhZGQiOiI0Ny4yNDMuMTk0LjEyNSIsImFpZCI6IjAiLCJob3N0IjoibnljcWcxOXprd2FjcG0xYi52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCA0MDQ3bXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-233. @vpn_free_iranin 🇭🇰 Xray RTT 3047ms
-   vmess://eyJhZGQiOiI4LjIxOC4xOTUuNjEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiJFWDFvR3Q3M056UFFLQWMyLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgNTBDRDZFIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDMwNDdtcyIsInNjeSI6ImF1dG8iLCJzbmkiOm51bGwsInRscyI6InRscyIsInR5cGUiOm51bGwsInYiOm51bGx9
+233. @vpn_free_iranin 🇫🇷 Xray RTT 4320ms
+   vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%204320ms
 
-234. @vpn_free_iranin 🇭🇰 Xray RTT 3228ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMzIyOG1zIiwiYWRkIjoiOC4yMTcuMjU0Ljg4IiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMmI5aHdZOG9DeDdRNzROTS52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IjJiOWh3eThvY3g3cTc0bm0udi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLOCJ9
+234. @vpn_free_iranin 🇩🇪 Xray RTT 4384ms
+   vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&sid=f8&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%204384ms
 
-235. @vpn_free_iranin 🇭🇰 Xray RTT 3261ms
-   vmess://eyJhZGQiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJxVEtEUjhqWEUzd0VGeEpNLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCAzMjYxbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAifQ==
+235. @vpn_free_iranin 🇯🇵 Xray RTT 4581ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUZcdUQ4M0NcdURERjUgWHJheSBSVFQgNDU4MW1zIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6IjE2OC4xMzguNDMuNzUifQ==
 
-236. @vpn_free_iranin 🌍 Xray RTT 3302ms
-   vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de2.srv.vbuste.ru:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%203302ms
+236. @vpn_free_iranin 🇭🇰 Xray RTT 4695ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgNDY5NW1zIiwiYWRkIjoiOC4yMTcuMjU0Ljg4IiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMmI5aHdZOG9DeDdRNzROTS52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IjJiOWh3eThvY3g3cTc0bm0udi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLOCJ9
 
-237. @vpn_free_iranin 🇺🇸 Xray RTT 3312ms
-   vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%203312ms
+237. @vpn_free_iranin 🇺🇸 Xray RTT 5075ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%205075ms
 
-238. @vpn_free_iranin 🇭🇰 Xray RTT 3439ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMzQzOW1zIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJzbmkiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJhbGxvd0luc2VjdXJlIjoiMSIsImluc2VjdXJlIjoiMSIsInNjeSI6ImF1dG8iLCJob3N0IjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+238. @vpn_free_iranin 🇭🇰 Xray RTT 5195ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDUxOTVtcyIsImFkZCI6ImV4MW9ndDczbnpwcWthYzIudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IkhLIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCB8IEBSYXlkaWthbHggfCBGNEVEN0YifQ==
 
-239. @vpn_free_iranin 🇭🇰 Xray RTT 3447ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDM0NDdtcyIsImFkZCI6IjZqZHZhcmF6Z3UzcXFyNnEudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiNmpkdmFyYXpndTNxcXI2cS52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiIsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IEUxQkJDMCJ9
+239. @vpn_free_iranin 🇫🇷 Xray RTT 5385ms
+   vless://40fbeade-2b35-55e2-8e72-39893b5917ea@tyxyrytyro-51255165170-direct.araghchy.com:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=tyxyrytyro-51255165170-direct.araghchy.com&type=tcp#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%205385ms
 
-240. @vpn_free_iranin 🌍 Xray RTT 3487ms
-   vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@144.31.238.115:2443?mode=gun&security=reality&encryption=none&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&fp=random&type=grpc&serviceName=grpc&sni=api-maps.yandex.ru&sid=ef567890#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%203487ms
+240. @vpn_free_iranin 🌍 Xray RTT 5460ms
+   trojan://humanity@141.193.213.172:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%205460ms
 
-241. @vpn_free_iranin 🇺🇸 Xray RTT 3544ms
-   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%203544ms
+241. @vpn_free_iranin 🇺🇸 Xray RTT 5544ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%205544ms
 
-242. @vpn_free_iranin 🇭🇰 Xray RTT 3552ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDM1NTJtcyIsImFkZCI6ImV4MW9ndDczbnpwcWthYzIudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IkhLIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCB8IEBSYXlkaWthbHggfCBGNEVEN0YifQ==
+242. @vpn_free_iranin 🇫🇷 Xray RTT 5550ms
+   vless://58756a39-0472-5f8a-89e3-a80fa94af59e@193.70.85.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=7q4eiwcseu-193708596-direct.rahbarii.com&type=tcp#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%205550ms
 
-243. @vpn_free_iranin 🇭🇰 Xray RTT 3626ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDM2MjZtcyIsImFkZCI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiSTJQU20zS25vZjVxamppeC52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IkkyUFNtM0tub2Y1cWpqaXgudi4zZG5zLnZpcCIsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IDM4RUIzNyJ9
+243. @vpn_free_iranin 🌍 Xray RTT 5560ms
+   vmess://eyJhZGQiOiJvcjMuc2ZhY2cudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1REYwRCBYcmF5IFJUVCA1NTYwbXMiLCJzY3kiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiY2RuLnNmYWNnLnVrIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-244. @vpn_free_iranin 🇫🇷 Xray RTT 3890ms
-   vless://58756a39-0472-5f8a-89e3-a80fa94af59e@193.70.85.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=7q4eiwcseu-193708596-direct.rahbarii.com&type=tcp#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%203890ms
+244. @vpn_free_iranin 🇺🇸 Xray RTT 5566ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%205566ms
 
-245. @vpn_free_iranin 🇭🇰 Xray RTT 3944ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMzk0NG1zIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbSJ9
+245. @vpn_free_iranin 🇩🇪 Xray RTT 5581ms
+   vless://fafc7c16-f890-45ee-a856-02df225172dd@94.249.241.154:3408?security=reality&encryption=none&pbk=3eXf94GSzRaECZwUCsF-aQbtxFo5FInM8uUhnyTRjFI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=de3.vpvr4ib84nuv6hdkt.ru&sid=0f56deee14619eb2#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%205581ms
 
-246. @vpn_free_iranin 🇭🇰 Xray RTT 3972ms
-   vmess://eyJhZGQiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCAzOTcybXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+246. @vpn_free_iranin 🇭🇰 Xray RTT 5586ms
+   vmess://eyJ2IjoyLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDU1ODZtcyIsImFkZCI6IjE1Ni4yNDUuMjMyLjIzOSIsInBvcnQiOjM1MDQzLCJpZCI6ImIxNWU0ODFkLTE3ZTQtNDFhOC04NGMyLTIzZDRmMDUxNGQ5YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE1Ni4yNDUuMjMyLjIzOSIsInBhdGgiOiIvIiwidGxzIjpmYWxzZSwic25pIjoiIn0=
 
-247. @vpn_free_iranin 🇭🇰 Xray RTT 4206ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDQyMDZtcyIsImFkZCI6Imxjdjh2OWw3b3lhbXh4Znoudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibGN2OHY5bDdveWFteHhmei52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6Imxjdjh2OWw3b3lhbXh4Znoudi4zZG5zLnZpcCIsImZwIjpudWxsLCJuYW1lIjoiSEsgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIHwgQFJheWRpa2FseCB8IDA4OTcyRCJ9
+247. @vpn_free_iranin 🇩🇪 Xray RTT 5839ms
+   trojan://UX82473651@pleased-albacore.rooster465.autos:443?security=tls&sni=pleased-albacore.rooster465.autos#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%205839ms
 
-248. @vpn_free_iranin 🇷🇺 Xray RTT 4279ms
-   vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-2-114.mirra.now:443?type=grpc&encryption=none&serviceName=VideoRenderer&path=VideoRenderer&sni=renderer-bridge-2-114.mirra.now&security=tls&fp=firefox&alpn=h2#%40vpn_free_iranin%20%F0%9F%87%B7%F0%9F%87%BA%20Xray%20RTT%204279ms
+248. @vpn_free_iranin 🌍 Xray RTT 5842ms
+   vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?encryption=none&security=reality&sni=md2.univesalsrv.com&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&type=grpc&authority=%2Ft.me%2FV2rayBaaz&serviceName=hub.v1.SyncService&mode=gun#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%205842ms
 
-249. @vpn_free_iranin 🇭🇰 Xray RTT 4389ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgNDM4OW1zIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzIifQ==
+249. @vpn_free_iranin 🇨🇦 Xray RTT 6187ms
+   trojan://av7fquzvuc99xcs9@172.67.140.126:2087?path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%206187ms
 
-250. @vpn_free_iranin 🇭🇰 Xray RTT 4488ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDQ0ODhtcyIsImFkZCI6IjkzdWNybjRpMHBmZnVhYmsudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJISyBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgfCBAUmF5ZGlrYWx4IHwgNTQ4MEM0In0=
+250. @vpn_free_iranin 🇨🇦 Xray RTT 6208ms
+   trojan://humanity@www.speedtest.net:443?security=tls&sni=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%206208ms
 
-251. @vpn_free_iranin 🌍 Xray RTT 4594ms
-   vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%204594ms
+251. @vpn_free_iranin 🌍 Xray RTT 6548ms
+   vmess://eyJhZGQiOiJjZG4uc2ZhY2cudWsiLCJhaWQiOjAsImhvc3QiOiJvcjMuc2ZhY2cudWsiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcjMiLCJwb3J0IjoyMDgzLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVERjBEIFhyYXkgUlRUIDY1NDhtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 
-252. @vpn_free_iranin 🇭🇰 Xray RTT 4627ms
-   vmess://eyJhZGQiOiJsY3Y4djlsN295YW14eGZ6LnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJsY3Y4djlsN295YW14eGZ6LnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCA0NjI3bXMiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJsY3Y4djlsN295YW14eGZ6LnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+252. @vpn_free_iranin 🌍 Xray RTT 7630ms
+   vmess://eyJhZGQiOiJjZG4uc2ZhY2cudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBjcyI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1REYwRCBYcmF5IFJUVCA3NjMwbXMiLCJzY3kiOiJhdXRvIiwic25pIjoib3IzLnNmYWNnLnVrIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 
-253. @vpn_free_iranin 🇨🇦 Xray RTT 4721ms
-   vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=/rain1226#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%204721ms
+253. @vpn_free_iranin 🇨🇦 Xray RTT 7684ms
+   trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=/tjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mfyousheng.nl.eu.org#%40vpn_free_iranin%20%F0%9F%87%A8%F0%9F%87%A6%20Xray%20RTT%207684ms
 
-254. @vpn_free_iranin 🇮🇳 Xray RTT 5203ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUVcdUQ4M0NcdURERjMgWHJheSBSVFQgNTIwM21zIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsInNuaSI6IjZKRHZBcmF6Z1UzcVFSNlEudi4zZG5zLnZpcCIsImZwIjoicmFuZG9tIiwicGF0aCI6Ii93cy12bWVzcyIsImhvc3QiOiIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiJ9
+254. @vpn_free_iranin 🌍 Xray RTT 7800ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgNzgwMG1zIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzIifQ==
 
-255. @vpn_free_iranin 🇭🇰 Xray RTT 5315ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDUzMTVtcyIsImFkZCI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IkhLIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCB8IEBSYXlkaWthbHggfCBDMjU2MjUifQ==
+255. @vpn_free_iranin 🌍 Xray RTT 7882ms
+   vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=nd-3.ardesnode.ru&sid=9ea74b83f4993ca9#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%207882ms
 
-256. @vpn_free_iranin 🇭🇰 Xray RTT 5422ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgNTQyMm1zIiwiYWRkIjoiMmI5aHd5OG9jeDdxNzRubS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiMmI5aHdZOG9DeDdRNzROTS52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+256. @vpn_free_iranin 🇫🇷 Xray RTT 8099ms
+   vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%208099ms
 
-257. @vpn_free_iranin 🇭🇰 Xray RTT 5470ms
-   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDU0NzBtcyIsImFkZCI6IjkzdWNybjRpMHBmZnVhYmsudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IkhLIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCB8IEBSYXlkaWthbHggfCA4NUY3MzEifQ==
+257. @vpn_free_iranin 🇯🇵 Xray RTT 8639ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERUZcdUQ4M0NcdURERjUgWHJheSBSVFQgODYzOW1zIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsImhvc3QiOiJOb25lIn0=
 
-258. @vpn_free_iranin 🇭🇰 Xray RTT 5687ms
-   vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IjQ3LjI0NC4xMjAuMTk3IiwiaWQiOiJiOWRlMWJjOS1iYWE3LTQxYWMtODZmNy1jY2Q1OTY5NWNiMjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSIsInBvcnQiOjIzMDI2LCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDU2ODdtcyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+258. @vpn_free_iranin 🌍 Xray RTT 9714ms
+   vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%209714ms
 
-259. @vpn_free_iranin 🌍 Xray RTT 5776ms
-   vless://fc87e0d6-0f6a-423a-828e-1fed7e7ef29c@w205.luxcloud.space:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=w205.luxcloud.space#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%205776ms
+259. @vpn_free_iranin 🇮🇳 Xray RTT 10979ms
+   vmess://eyJhZGQiOiIyMC4yMzUuMjIwLjE4OSIsImFpZCI6MCwiaG9zdCI6IjZKRHZBcmF6Z1UzcVFSNlEudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRVx1RDgzQ1x1RERGMyBYcmF5IFJUVCAxMDk3OW1zIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidiI6IjIifQ==
 
-260. @vpn_free_iranin 🇭🇰 Xray RTT 6026ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgNjAyNm1zIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6InFUS0RSOGpYRTN3RUZ4Sk0udi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+260. @vpn_free_iranin 🌍 Xray RTT 11195ms
+   vless://fd1d80da-3b27-457a-810b-2b28a309edc1@195.123.6.19:8443?security=reality&encryption=none&pbk=EDXtIJRcxgBXd32fNHSWcd8GUarM3aZeYf_xDD5gSXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=6a42dc3d#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2011195ms
 
-261. @vpn_free_iranin 🇭🇰 Xray RTT 6485ms
-   vmess://eyJhZGQiOiI0Ny4yNDMuMTUzLjE1MyIsImFpZCI6MCwiaG9zdCI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDY0ODVtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCJ9
+261. @vpn_free_iranin 🌍 Xray RTT 11277ms
+   trojan://humanity@185.220.100.168:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2011277ms
 
-262. @vpn_free_iranin 🇨🇦 Xray RTT 6520ms
-   vmess://eyJhZGQiOiJ1azMtMi45OTg5OTguYmVzdCIsImFpZCI6IjAiLCJob3N0Ijoic2VydmVyMjIuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9zZXJocmRmdHNoZyIsInBvcnQiOiI0NDMiLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREU4XHVEODNDXHVEREU2IFhyYXkgUlRUIDY1MjBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNlcnZlcjIyLjk5NjYzMzgueHl6IiwidiI6IjIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=
+262. @vpn_free_iranin 🇷🇺 Xray RTT 11327ms
+   vless://c96f941e-dd8a-006e-89d5-740b79202ed0@185.22.153.40:8443?encryption=none&security=reality&sni=x5club.ru&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&spx=%2Fc6e79208ab92a6b&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%B7%F0%9F%87%BA%20Xray%20RTT%2011327ms
 
-263. @vpn_free_iranin 🇭🇰 Xray RTT 6619ms
-   vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImIxNWU0ODFkLTE3ZTQtNDFhOC04NGMyLTIzZDRmMDUxNGQ5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjozNTA0MywicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBYcmF5IFJUVCA2NjE5bXMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+263. @vpn_free_iranin 🌍 Xray RTT 11392ms
+   vless://c7336a70-9d56-4ef9-8cb8-8eeb9c82a3e3@217.69.167.167:43000?security=reality&encryption=none&pbk=yVypeNRnQF6yM3z2FJLL6jJcvZY8SArZN34JQbiEzzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.167&sid=5c97b3bc#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2011392ms
 
-264. @vpn_free_iranin 🌍 Xray RTT 6760ms
-   vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%206760ms
+264. @vpn_free_iranin 🌍 Xray RTT 11402ms
+   vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2011402ms
 
-265. @vpn_free_iranin 🌍 Xray RTT 6856ms
-   vless://c7336a70-9d56-4ef9-8cb8-8eeb9c82a3e3@217.69.167.167:43000?security=reality&encryption=none&pbk=yVypeNRnQF6yM3z2FJLL6jJcvZY8SArZN34JQbiEzzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.167&sid=5c97b3bc#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%206856ms
+265. @vpn_free_iranin 🇷🇺 Xray RTT 11434ms
+   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERjdcdUQ4M0NcdURERkEgWHJheSBSVFQgMTE0MzRtcyIsImFkZCI6InJlbmRlcmVyLXN0cmVhbS0yLTExNC5taXJyYS5ub3ciLCJwb3J0Ijo0NDMsImlkIjoiOGZmYTQxZDQtZTZiNS00YWY1LWE4YTktNjllMjZiZWM3NWY1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItMTE0Lm1pcnJhLm5vdyIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0yLTExNC5taXJyYS5ub3ciLCJmcCI6ImZpcmVmb3giLCJhbHBuIjoiaDIiLCJzZXJ2ZXJEZXNjcmlwdGlvbiI6ItCQ0LrRgtC40LLQvdCwINC60L7QvdGE0LjQs9GD0YDQsNGG0LjRjyDQtNC70Y8gTFRFIn0=
 
-266. @vpn_free_iranin 🌍 Xray RTT 10877ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURGMEQgWHJheSBSVFQgMTA4NzdtcyIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0IjoiODAiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6Imdvb2dsZS5jb20iLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
+266. @vpn_free_iranin 🇭🇰 Xray RTT 11605ms
+   vmess://eyJ2IjpudWxsLCJwcyI6IkB2cG5fZnJlZV9pcmFuaW4gXHVEODNDXHVEREVEXHVEODNDXHVEREYwIFhyYXkgUlRUIDExNjA1bXMiLCJhZGQiOiJpMnBzbTNrbm9mNXFqaml4LnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IkkyUFNtM0tub2Y1cWpqaXgudi4zZG5zLnZpcCIsImFscG4iOm51bGwsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJJMlBTbTNLbm9mNXFqaml4LnYuM2Rucy52aXAiLCJmcCI6bnVsbCwibmFtZSI6IkhLIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCB8IEBSYXlkaWthbHggfCAzOEVCMzcifQ==
 
-267. @vpn_free_iranin 🇯🇵 Xray RTT 10910ms
-   vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoianAwMS5hMGEueHl6IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0Ijo4MCwicHMiOiJAdnBuX2ZyZWVfaXJhbmluIFx1RDgzQ1x1RERFRlx1RDgzQ1x1RERGNSBYcmF5IFJUVCAxMDkxMG1zIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-
-268. @vpn_free_iranin 🌍 Xray RTT 11347ms
-   trojan://av7fquzvuc99xcs9@172.67.140.126:2087?path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2011347ms
-
-269. @vpn_free_iranin 🌍 Xray RTT 11816ms
-   vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?security=reality&encryption=none&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=94.249.188.202&sid=7887c27d#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2011816ms
-
-270. @vpn_free_iranin 🇫🇷 Xray RTT 12212ms
-   vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#%40vpn_free_iranin%20%F0%9F%87%AB%F0%9F%87%B7%20Xray%20RTT%2012212ms
-
-271. @vpn_free_iranin 🇩🇪 Xray RTT 12365ms
-   vless://fd1d80da-3b27-457a-810b-2b28a309edc1@195.123.6.19:8443?security=reality&encryption=none&pbk=EDXtIJRcxgBXd32fNHSWcd8GUarM3aZeYf_xDD5gSXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=6a42dc3d#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%2012365ms
-
-272. @vpn_free_iranin 🇭🇰 Xray RTT 12964ms
-   vmess://eyJ2IjoiMiIsInBzIjoiQHZwbl9mcmVlX2lyYW5pbiBcdUQ4M0NcdURERURcdUQ4M0NcdURERjAgWHJheSBSVFQgMTI5NjRtcyIsImFkZCI6IjQ3LjI0My4xNTMuMTUzIiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJpMnBzbTNrbm9mNXFqaml4LnYuM2Rucy52aXAiLCJob3N0IjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyJ9
-
-273. @vpn_free_iranin 🌍 Xray RTT 14542ms
-   trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2014542ms
-
-274. @vpn_free_iranin 🌍 Xray RTT 14782ms
-   trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=/tjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mfyousheng.nl.eu.org#%40vpn_free_iranin%20%F0%9F%8C%8D%20Xray%20RTT%2014782ms
-
-275. @vpn_free_iranin 🇩🇪 Xray RTT 14829ms
-   vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&sid=f8&type=tcp&headerType=none#%40vpn_free_iranin%20%F0%9F%87%A9%F0%9F%87%AA%20Xray%20RTT%2014829ms
+267. @vpn_free_iranin 🇺🇸 Xray RTT 12619ms
+   vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?security=reality&encryption=none&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=c85d029f5e8eb393#%40vpn_free_iranin%20%F0%9F%87%BA%F0%9F%87%B8%20Xray%20RTT%2012619ms
 
